@@ -1,6 +1,3 @@
-
---------WINDOWS 
-
 1. Installer un serveur pour php (MAMP sur windows/mac et Xampp sur linux)
     WINDOWS : https://www.mamp.info/en/mamp/windows/
     https://yewtu.be/watch?v=sv0pKGyKYtU
@@ -11,21 +8,6 @@
 
 4. Lancer Xampp/Mamp et taper dans le navigateur ( de préférence Firefox pour les sauts de pages) localhost/PBLV-web
 ~
-
----------- LINUX
-
-1-installer xampp serveur pour php
-2- changer l'emplacement du dossier de test serveur ou utiliser celui de base 
-/opt/lampp/htdocs/ 
-et faire un lien symbolique :
-ln -s /opt/lampp/htdocs/ ~/Bureau/htdocs/
-3. lancer le serveur avec
-$ sudo /opt/lampp/lampp start
-
-4- accéder a la page web avec le navigateur
-http://localhost/PBLV-web/
-http://localhost/web2print/PBLV-web/
-
 
 --- to do
 
