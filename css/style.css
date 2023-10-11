@@ -1,0 +1,78 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Mettre une typo (dans le dossier CSS) */
+
+@font-face {
+  font-family: 'cmu-serif-roman';
+  src: url('cmu.serif-roman.ttf');
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ STYLE Pour l'écran */
+
+html,
+body {
+  margin: 0;
+  color: #000;
+  background-color: #fff;
+  width: 21cm;
+  height: 29.7cm;
+  font-family: 'cmu-serif-roman';
+}
+
+.container_txt{
+  width: 15cm;
+}
+
+
+p{
+  font-family: 'cmu-serif-roman';
+  margin-left: 15mm;
+  margin-bottom: 6mm;
+}
+
+h1{
+  text-transform: uppercase;
+  font-size: 14pt;
+  margin-left: 15mm;
+  text-align: center;
+}
+
+em{
+  break-after: always;
+}
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ STYLE Pour l'impression */
+@media print {
+
+  html,
+  body {
+    margin: 0;
+    color: #000;
+    background-color: #fff;
+    width: 21cm;
+    height: 29.7cm;
+    font-family: 'cmu-serif-roman';
+  }
+
+  .container_txt{
+    width: 15cm;
+  }
+
+  p{
+    font-family: 'cmu-serif-roman';
+    margin-left: 15mm;
+    margin-bottom: 6mm;
+  }
+
+  h1{
+     text-transform: uppercase;
+    font-size: 14pt;
+    /* margin-left: 15mm; */
+    text-align: center;
+  }
+
+  em{
+    color: blue;
+    break-before: always;
+    break-after: avoid;
+  }
+
+
+}
