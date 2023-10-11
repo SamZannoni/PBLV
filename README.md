@@ -6,4 +6,9 @@
 
 3. Mettre ce dossier dans le dossier htdocs
 
-4. Taper dans le navigateur localhost/PBLV-web
+4. Lancer Xampp/Mamp et taper dans le navigateur ( de préférence Firefox pour les sauts de pages) localhost/PBLV-web
+~
+
+--- to do
+
+ [] Ajouter en données : Numéro de l'épisode, Titre de l'épisode, Numéro de la séquence, Lieu, Personnages

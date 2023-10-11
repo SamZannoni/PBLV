@@ -9,21 +9,22 @@ $texte = file_get_contents('sequence-1-2.md');
 
 $extra = new ParsedownExtra();
 
-
 ?>
 
 <html lang="fr">
 
 <head>
   <meta charset="UTF-8">
-  <title>Plus Belle La Vie 42</title>
+  <title>La Vie Plus Belle Script</title>
   <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/print.css">
   <script src="js/script.js"></script>
 
 </head>
 
 <body>
-  <div class="container_txt">
+  <div id="container_txt">
+
     <?php
     echo $extra->text($texte);
     ?>

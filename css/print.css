@@ -1,0 +1,78 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ STYLE Pour l'impression */
+@media print {
+
+
+  html,
+  body {
+    margin: 0;
+    color: #000;
+    background-color: #fff;
+    width: 21cm;
+    height: 29.7cm;
+    font-family: 'cmu-serif-roman';
+  }
+  .infos{
+    margin-left:2mm;
+    margin-right:2mm;
+    margin-top:0mm;
+    margin-bottom:0mm;
+  }
+
+  .container_infos{
+  display: flex;
+  }
+  .episode{
+    width: 21cm;
+    font-size:16pt;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .titre_episode{
+    width:max-content;
+    float: left;
+    font-size:16pt;
+  }
+  .sequence{
+    font-size:14pt;
+  }
+
+  .lieu{
+    font-size:14pt;
+    width: 21cm;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4mm;
+  }
+  .personnages{
+    font-size:14pt;
+    width: fit-content;
+  }
+
+  .container_txt{
+    width: 15cm;
+  }
+
+  p{
+    font-family: 'cmu-serif-roman';
+    margin-left: 15mm;
+    margin-bottom: 6mm;
+    margin-top: 0mm;
+  }
+
+  h1{
+    text-transform:uppercase;
+    font-size: 14pt;
+    margin-top:10mm;
+    margin-bottom:0mm;
+    margin-left: 15mm;
+    text-align: center;
+  }
+
+  em{
+    break-before: always;
+    break-after: avoid;
+  }
+
+}
