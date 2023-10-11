@@ -11,11 +11,11 @@ function setup(){
   }
 
   var container_txt = document.getElementById("container_txt");
+
   // Récuperer les 5 premiers éléments du Markdown
   let episode = document.getElementsByTagName("h2");
   let titre_episode = document.getElementsByTagName("h3");
   let sequence = document.getElementsByTagName("h4");
-
   let lieu = document.getElementsByTagName("h5");
   let personnages = document.getElementsByTagName("h6");
 

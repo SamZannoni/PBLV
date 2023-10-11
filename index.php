@@ -5,7 +5,8 @@ include 'ressource/Parsedown.php';
 include 'ressource/ParsedownExtra.php';
 
 // Si jamais le fichier Markdown change, il faut changer le nom ici :
-$texte = file_get_contents('sequence-1-2.md');
+$texte1 = file_get_contents('sequence-1-2.md');
+$texte2 = file_get_contents('sequence-2-3.md');
 
 $extra = new ParsedownExtra();
 
@@ -26,7 +27,8 @@ $extra = new ParsedownExtra();
   <div id="container_txt">
 
     <?php
-    echo $extra->text($texte);
+    echo $extra->text($texte1);
+    echo $extra->text($texte2);
     ?>
   </div>
 

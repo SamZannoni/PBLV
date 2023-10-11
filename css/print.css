@@ -70,9 +70,5 @@
     text-align: center;
   }
 
-  em{
-    break-before: always;
-    break-after: avoid;
-  }
 
 }
