@@ -48,6 +48,7 @@
   .personnages{
     font-size:14pt;
     width: fit-content;
+    color: red;
   }
 
   .container_txt{
