@@ -18,6 +18,8 @@ function setup(){
   let sequence = document.getElementsByTagName("h4");
   let lieu = document.getElementsByTagName("h5");
   let personnages = document.getElementsByTagName("h6");
+  let contexte = document.getElementsByTagName("h7");
+
 
   for (let i = 0; i < episode.length; i++) {
     episode[i].appendChild(titre_episode[i]);
@@ -51,6 +53,11 @@ function setup(){
   for (let i = 0; i < personnages.length; i++) {
     personnages[i].insertAdjacentHTML("afterbegin","<span class='small'>Personnages</span> ")
     personnages[i].classList="infos personnages";
+  }
+
+    for (let i = 0; i < contexte.length; i++) {
+    contexte[i].insertAdjacentHTML("afterbegin","<span class='small'>Contexte</span> ")
+    contexte[i].classList="infos contexte";
   }
 
   var infos=document.getElementsByClassName('infos');

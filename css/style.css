@@ -60,6 +60,13 @@ body {
   color:red;
 }
 
+}
+.contexte{
+  font-size:14pt;
+  width: fit-content;
+  color:red;
+}
+
 #container_txt{
   width: 15cm;
 }
