@@ -57,14 +57,15 @@ body {
 .personnages{
   font-size:14pt;
   width: fit-content;
-  color:red;
+  color:darkred;
 }
 
 }
 .contexte{
   font-size:14pt;
   width: fit-content;
-  color:red;
+  color: green;
+
 }
 
 #container_txt{
