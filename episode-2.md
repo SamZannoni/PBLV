@@ -313,7 +313,7 @@ D'abord, c'est pas les locataires qui sont recalculés, c'est les chômeurs.
 Ouais ouais, ben ça commence par les chômeurs. Et puis faut continuer le combat.
 
 # Roland
-maintenant tout le monde s'y met pour te trouver une solution. Malik est même allé à la mairie [voir notre maire qui n'était même pas là !].
+maintenant tout le monde s'y met pour te trouver une solution. Malik est même allé à la mairie voir notre maire qui n'était même pas là !].
 
 # Rachel
 Tu me fais beaucoup de peine tu sais, vraiment. Ahhh, tu n'es pas comme ton père, lui au moins il m'a cachée pendant la guerre.
@@ -349,7 +349,10 @@ A sa place, je l'aurais peut être mal pris, moi aussi. oui, à son âge, elle a
 Oui, oui, je reconnais, c'était très maladroit, mais c'est pas une raison pour me laisser dans une telle angoisse
 
 # Charlotte
-écoutez elle est peut être tout bêtement sur une plage en train de regretter votre dispute. Demain, elle aura tout oublié. Les ados y sont pas vraiment rancuniers. [musique grands violons] Moi aussi je me tirais tout le temps de chez mes parents. Je faisais ça en espérant qu'ils s'inquiètent pour moi. Mais non, ils s'en foutaient complètement.
+écoutez elle est peut être tout bêtement sur une plage en train de regretter votre dispute. Demain, elle aura tout oublié. Les ados y sont pas vraiment rancuniers.
+> musique grands violons
+
+Moi aussi je me tirais tout le temps de chez mes parents. Je faisais ça en espérant qu'ils s'inquiètent pour moi. Mais non, ils s'en foutaient complètement.
 
 # Vincent
 Entre les parents et les enfants, il y a tellement de malentendus idiots. Je vous remercie de m'avoir écoutée.
@@ -374,7 +377,9 @@ Alors alors on a l'air perdue ? moi c'est Antonio et toi ?
 # Ninon
 Moi c'est Ninon.
 
-# Le jeune [son collègue s'amène derrière elle]
+# Le jeune
+>  son collègue s'amène derrière elle
+
 C'est mignon, c'est joli comme prénom. Aussi joli que toi.
 
 # Ninon
@@ -387,7 +392,8 @@ Attend attend tu vas pas nous quitter comme ça. J'ai même pas eu le temps de f
 Ca va j'vais me debrouiller merci.
 
 # Le jeune
-Tu veux vraiment pas venir chez moi, on a de quoi passer un bon moment... [Ninon se casse, court et bouscule deux vieux Vieille France qui lisent le journal]
+Tu veux vraiment pas venir chez moi, on a de quoi passer un bon moment...
+> Ninon se casse, court et bouscule deux vieux Vieille France qui lisent le journal
 
 # Les vieux :
 Encore une qui descend du TGV, j'en ai connu deux jours après ils retrouvaient pas leur vitesse normale, LOL !
@@ -423,7 +429,9 @@ Remarque rien qu'à voir ta figure, je m'en doutais un peu. Alors, c'est quoi ?
 On en a déjà parlé hier. Je vais devoir t'augmenter le loyer du Mistral. Je suis sur la paille, les impôts me poursuivent.
 
 # Roland
-Voilà, voilà. On part au Canada, on se paye une belle tranche de vacances et après ça, on s'en prend aux impôts. [il se prend une bière]
+Voilà, voilà. On part au Canada, on se paye une belle tranche de vacances et après ça, on s'en prend aux impôts.
+>  il se prend une bière
+
 Mais si tu voulais aller voir des ours, t'avais qu'à aller dans les Pyrénées... c'est direct maintenant par l'autoroute.
 
 # François
@@ -504,7 +512,10 @@ Heureusement que moi, je l'ai, l'esprit de famille.... 1000 euros, c'est tout ce
 Tu parles, des travaux... Ça fait dix ans que tu dois les faire.
 
 # Roland
-Et merci. [aux clients] Ben quoi ? Lui aussi il m'a fait de la peine. Et oui, il m'a fait de la peine.
+Et merci.
+>  aux clients]
+
+Ben quoi ? Lui aussi il m'a fait de la peine. Et oui, il m'a fait de la peine.
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -513,7 +524,7 @@ Et merci. [aux clients] Ben quoi ? Lui aussi il m'a fait de la peine. Et oui, il
 ###### Vincent Chaumette et une passante
 
 # Vincent, son téléphone sonne
-Ninon ?? Ah Laurence, c'est toi ? Ah oui, ça pour le savoir, je sais que t'es toujours sa mère, hein ? Non, non, on va rester à Marseille pour la dernière semaine de vacances, elle se plaît bien ici. Oui, on profite de la mer. D'ailleurs, elle est encore à la plage. Ah bah non, je sais pas écoute, son portable doit être déchargée ou... écoute dès qu'elle rentre elle te rappelle. D'accord, ok, c'est ça ? Oui ok. [il arrête une fille pensant que c'est Ninon]
+Ninon ?? Ah Laurence, c'est toi ? Ah oui, ça pour le savoir, je sais que t'es toujours sa mère, hein ? Non, non, on va rester à Marseille pour la dernière semaine de vacances, elle se plaît bien ici. Oui, on profite de la mer. D'ailleurs, elle est encore à la plage. Ah bah non, je sais pas écoute, son portable doit être déchargée ou... écoute dès qu'elle rentre elle te rappelle. D'accord, ok, c'est ça ? Oui ok. >  il arrête une fille pensant que c'est Ninon]
 Excusez moi messieurs, le commissariat.
 
 ## Épisode n°=2
@@ -532,10 +543,12 @@ studio ? un trou à rat oui ! Je croyais qu'il existait une loi aujourd'hui cont
 Et si on en parlait tranquillement ? Rachel Soyez raisonnable,
 
 # Rachel
-raisonnable ! Moi, juive communiste, je préfère mourir ici. [elle tombe]
+raisonnable ! Moi, juive communiste, je préfère mourir ici.
+>  elle tombe
 
 # Malik
-Rachel ! Rachel ! [il tente de défoncer la porte]
+Rachel ! Rachel !
+>  il tente de défoncer la porte
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -547,7 +560,8 @@ Rachel ! Rachel ! [il tente de défoncer la porte]
 Ah bah voilà celle que je cherchais et en retard comme d'habitude. Un concert electro funk ça n'attend pas. La prochaine fois, tu pourrais arriver à l'heure... je rigole. C'est pas de la drague. Regarde, t'as vu, il nous invite ! 'tin mais elle me croit pas. Mais regarde, je te dis regarde, attends, ça va chauffer. Tu ne peux pas manquer quand même
 
 # Ninon
-écoute là j'ai pas trop le temps. J'ai des emmerdes. [elle voit son daron, elle se cache]
+écoute là j'ai pas trop le temps. J'ai des emmerdes.
+>  elle voit son daron, elle se cache]
 
 # Rudy
 Qu'est ce qu'il y a ?
@@ -556,7 +570,10 @@ Qu'est ce qu'il y a ?
 C'est pas trop chicos ton concert, parce que j'ai rien d'autre à mettre là.
 
 # Rudy
-Non, non, non, non, non, non, t'es très bien comme ça. Très très bien même, change rien. Allo ? Oui Lucas, oui, c'est moi. Oui, oui, oui, oui, tu sais, le concert de soir, c'est vraiment pas de bol, c'est annulé. Ah bah ouais je sais. Ouais, mais je crois qu'il y a comme un petit contretemps , comme un cas de force majeure [Ninon l'attrape pour bouger]. Ah ouais ouais, je te rappelle la je suis super pressé.
+Non, non, non, non, non, non, t'es très bien comme ça. Très très bien même, change rien. Allo ? Oui Lucas, oui, c'est moi. Oui, oui, oui, oui, tu sais, le concert de soir, c'est vraiment pas de bol, c'est annulé. Ah bah ouais je sais. Ouais, mais je crois qu'il y a comme un petit contretemps , comme un cas de force majeure
+>  Ninon l'attrape pour bouger].
+
+Ah ouais ouais, je te rappelle la je suis super pressé.
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -574,4 +591,5 @@ au pied de biche
 mais non ta qu'à le faire si tu sais mieux que moi
 
 # Blanche
-Allez encore un effort  [ils regardent en direction du sol...]
+Allez encore un effort
+>  ils regardent en direction du sol...]

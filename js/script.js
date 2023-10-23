@@ -18,7 +18,7 @@ function setup(){
   let sequence = document.getElementsByTagName("h4");
   let lieu = document.getElementsByTagName("h5");
   let personnages = document.getElementsByTagName("h6");
-  let contexte = document.getElementsByTagName("h7");
+  let contexte = document.getElementsByTagName(">");
 
 
   for (let i = 0; i < episode.length; i++) {

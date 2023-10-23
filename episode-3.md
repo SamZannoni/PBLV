@@ -4,11 +4,11 @@
 #### Séquence 1
 ##### Chez Rachel
 ###### Blanche Marci, François Marci, Malik Nassri, Rachel Lévy
-####### Blanche, François et Malik déboulent dans l'appartement de Rachel et la trouvent inconsciente sur le sol
+>  Blanche, François et Malik déboulent dans l'appartement de Rachel et la trouvent inconsciente sur le sol
 
 # Blanche Marci
 Rachel !... Elle respire.. Rachel ?
-####### à François
+>  à François
 Mais reste pas planté là !!! Appelle une ambulance !!
 
 # Malik Nassri
@@ -21,7 +21,7 @@ Rachel ?
 Mais laisse la respirer ! Rachel ?
 
 # François Marci
-####### Au téléphone
+>  Au téléphone
 AH quand même, faut pas être pressé de mourir avec vous ! Cours du Mistral au fond à gauche ! Ben BIEN SÛR que c'est pour une urgence !!!
 
 # Malik Nassri
@@ -34,7 +34,7 @@ Ah ! Je crois qu'elle bouge.
 #### Séquence 2
 ##### Plage de la pointe rouge
 ###### Ninon Chaumette, Rudy Torres, une vagabonde endormie
-####### Les deux ados sortent de soirée au Charli's
+>  Les deux ados sortent de soirée au Charli's
 
 
 # Rudy Torres
@@ -63,7 +63,7 @@ C'est moi qui danse comme ça ?
 
 # Rudy Torres
 Grave
-####### Il se rapproche d'elle en dansant mais y finit un peu gêné
+>  Il se rapproche d'elle en dansant mais y finit un peu gêné
 Et maintenant, qu'est ce que tu vas faire ?
 
 # Ninon Chaumette
@@ -74,9 +74,9 @@ Faudrait ptet appeller ton père non histoire de le rassurer
 
 # Ninon Chaumette
 Non. Plus de père, plus de maison, plus d'affaires puisque dtoutefaçon j'ai plus, jme suis faite voler mon sac.
-####### Elle allume une douche de plage et s'éloigne
+>  Elle allume une douche de plage et s'éloigne
 ...Houh ! Bref je suis une femme... Libre !
-####### Elle s'approche d'une vagabonde qui dort sur une chaise de plage et pose ses chaussures sur son chariot.
+>  Elle s'approche d'une vagabonde qui dort sur une chaise de plage et pose ses chaussures sur son chariot.
 
 # Rudy Torres
 Tain j'hallucine tu vas pas lui filer tes pompes ?
@@ -96,7 +96,7 @@ Ouais, mais les miennes elles sont à moi et j'les garde quoi
 # Ninon Chaumette
 Pff... Tout a fait la mentalité de mon père ça...
 
-####### La vagabonde se réveille au milieu d'elleux
+>  La vagabonde se réveille au milieu d'elleux
 # La vagabonde
 RooOh quoi on peut même pu pioncer ?!
 
@@ -106,7 +106,7 @@ Okay ! Tenez madame
 # Ninon Chaumette
 Comme ça vous avez le choix
 
-####### Les deux ados se tiennent la main et trottinnent vers la mer
+>  Les deux ados se tiennent la main et trottinnent vers la mer
 
 
 
@@ -121,7 +121,7 @@ Rachel Buvez un peu de thé.. Manger du croissant !
 
 # Rachel Lévy
 Non merci, Mirta, tout ce que je veux c'est rentrer dans ma maison.
-####### Elle essaye de débrancher le catheter mais Roland l'en empêche
+>  Elle essaye de débrancher le catheter mais Roland l'en empêche
 
 # Mirta Torres
 Ne faites pas ça !
@@ -140,13 +140,13 @@ Une seule personne touche une seule de tes affaires, il sort pas vivant du Mistr
 
 
 # Infirmiére
-####### Entre
+>  Entre
 Alors madame Levy, on reprend des forces mais on n'a pas touché à son petit déjeuner
 
 # Rachel Lévy
 et non, le thé était pas assez le froid et les croissants pas assez durs.
 
-####### elle baragouine quelque chose à Mirta sur la façon qu'a l'infirmière de lui parler
+>  elle baragouine quelque chose à Mirta sur la façon qu'a l'infirmière de lui parler
 
 # Roland Marci
 ça va comment ? Elle a l'air faible
@@ -188,7 +188,7 @@ quitte à les déranger, tu pourras m'les passer
 #### Séquence 4
 ##### Appartement des Marci
 ###### Lucas Marci, Blanche Marci, Johanna Marci, François Marci
-####### Lucas rejoint Johanna et Blanche qui petit déjeunent
+>  Lucas rejoint Johanna et Blanche qui petit déjeunent
 
 # Lucas Marci
 C'est qui le psychopathe qui a appellé  cette heure là
@@ -215,7 +215,7 @@ T'as choisi quel modèle déjà ?
 # Johanna Marci
 Mais ça fait 100 fois que je vous le dis. C'est une Nosferata. La reine de la nuit.
 
-####### rires de la famille
+>  rires de la famille
 
 # Lucas Marci
 Nosfrataa! Wouuh ! Le zombie du patinage artistique ! Buuh
@@ -227,7 +227,7 @@ Bah d'accord... Voila mais je ne sais pas comment je fais pour continuer avec un
 # Lucas Marci
 Booh mais attend Johanna... Johanna attend moi, Nosferata woouh !
 
-####### Elle sort puis il la suit
+>  Elle sort puis il la suit
 
 # Blanche Marci
 Pour la porte de Rachel j'peux m'en occuper. La rentrée est seulement dans une semaine.
@@ -246,7 +246,7 @@ Et ils feront le tour du monde parce qu'ils auront été conçus par le meilleur
 
 # François Marci
 Exact ma chérie... Exact. Ah ! ça, c'est pour moi !
-####### Il va répondre au téléphone qui sonnait
+>  Il va répondre au téléphone qui sonnait
 Allô ? Oui, monsieur Martineau, comment allez vous ? Mais j'allais vous appeler.
 
 
@@ -269,7 +269,7 @@ Bonjour.
 Bonjour. Un perroquet léger.
 
 # Malik Nassri
-####### En repartant
+>  En repartant
 Perroquet léger
 
 # Céline Frémont
@@ -298,9 +298,9 @@ Merci...
 Vous savez ce que je crois ? Je crois qu'elle vous met à l'épreuve. Elle a besoin de savoir si elle compte vraiment pour vous. Et le meilleur moyen de le lui prouver, c'est d'aller jusqu'au bout de votre démarche. Ce poste, c'est la stabilité. Une chance de devenir père à plein temps. C'est ce que vous vouliez ? Non ? Allez, on se change, on prend le dossier de candidature et on y va. D'accord ?
 
 
-####### Elle sort un portable
+>  Elle sort un portable
 L'adjoint Piquemal pour Céline Frémont
-####### à Vincent
+>  à Vincent
 C'est pour votre fille que vous allez faire
 
 ## Épisode n°=3
@@ -324,7 +324,7 @@ Et t'as jamais eu envie de le connaitre ?
 A ton avis ?
 Non moi tu sais, j'suis un mec libre moi.. Sans attaches.
 ça va mieux ?
-####### Elle relève la tête et il s'attend à un baiser
+>  Elle relève la tête et il s'attend à un baiser
 
 # Rudy Torres
 Excuse moi... J'ai cru que...
@@ -420,7 +420,7 @@ Oui, je sais, il est un peu déroutant. Mais c'est parce qu'il est à fleur de p
 #### Séquence 9
 ##### Appartement des Marci
 ###### François Marci, Lucas Marci
-####### François Marci trifouille de la paperasse
+>  François Marci trifouille de la paperasse
 
 # Lucas Marci
 T'es déjà rentré ?
@@ -431,7 +431,7 @@ Oui non, enfin j'y retourne, c'est vraiment pas le moment.
 # Lucas Marci
 Ah
 
-####### François ouvre la chemise des papiers du bar. Lucas revient avec la caméra et le filme.
+>  François ouvre la chemise des papiers du bar. Lucas revient avec la caméra et le filme.
 
 # François Marci
 Lucas.... Lucas c'est vraiment pas le moment
@@ -480,7 +480,7 @@ Et puis j'aimerais bien que dans cette famille, les relations soit un peu moins 
 #### Séquence 10
 ##### Quartier du Mistral
 ###### Ninon Chaumette, Rudy Torres, Roland Marci, Mirta Torres
-####### Rudy déguise Ninon
+>  Rudy déguise Ninon
 
 # Rudy Torres
 Et voila, discrétion assurée !
@@ -490,7 +490,7 @@ Alors mec, elle est où ta planque
 
 # Rudy Torres
 juste là ! Il suffit juste de passer par l'entrée de l'hôtel. Attends. Oh non ! Y'a ma grand mère qui est là... On est bloqués.
-####### Il a vu Mirta et Roland dans la rue
+>  Il a vu Mirta et Roland dans la rue
 
 # Ninon Chaumette
 Ta grand mère ? Mais attend elle est super jeune ? Et pourquoi tu te cache ? Elle t'a jamais vu avec une fille..?
@@ -560,10 +560,10 @@ Mais une seule à ta préférence. Et ce soir, elle espère bien une petite visi
 Tu passe pas la sortie de secours hein.
 
 # Roland Marci
-####### Fredonnant
+>  Fredonnant
 Comme d'habitude
 
-####### Iels retournent à leurs moutons
+>  Iels retournent à leurs moutons
 # Roland Marci
 ça va jean ?
 
@@ -573,7 +573,7 @@ Comme d'habitude
 #### Séquence 11
 ##### Hotel Select
 ###### Ninon Chaumette, Rudy Torres, Aicha Djellal
-####### Aicha fait le ménage, Rudy et Ninon essayent de passer discrétos
+>  Aicha fait le ménage, Rudy et Ninon essayent de passer discrétos
 
 #Aicha Djellal
 Rudy c'est toi ?
@@ -588,7 +588,7 @@ Oui, oui Aicha c'est moi ouais !
 #### Séquence 12
 ##### Bureau de Céline Frémont
 ###### Céline Frémont, Vincent Chaumette, l'adjoint au Maire
-####### Vincent reçoit un appel de Ninon
+>  Vincent reçoit un appel de Ninon
 
 
 # Vincent Chaumette
@@ -602,7 +602,7 @@ Je retourne chez les fliques
 
 # L'adjoint
 Mademoiselle Frémont. Je n'ai pas l'habitude de perdre mon temps.
-####### Il lui rend avec fermeté son stylo et part.
+>  Il lui rend avec fermeté son stylo et part.
 
 
 ## Épisode n°=3
@@ -610,7 +610,7 @@ Mademoiselle Frémont. Je n'ai pas l'habitude de perdre mon temps.
 #### Séquence 13
 ##### Devant chez Rachel
 ###### François Marci, Blanche Marci
-####### François rejoint Blanche qui répare la porte
+>  François rejoint Blanche qui répare la porte
 
 # François Marci
 Rien n'est plus beau qu'une belle femme en train de bricoler. Je te remplace ?
@@ -620,7 +620,7 @@ Oui, parce que là, il faut visser
 
 # François Marci
 une main de fer dans un gant de velours.
-####### il sort une rose
+>  il sort une rose
 
 # Blanche Marci
 Elle est très belle. Tu l'as volée, j'espère. J'ai réfléchi. On pourrait lancer une souscription pour Rachel. On lui trouverait un studio dans le quartier et on l'aiderait à payer le loyer.
@@ -640,7 +640,7 @@ Arrête de me prendre pour une imbécile. Le banquier t'as appelé à 8 h ce mat
 # François Marci
 C'est seulement que... je vais toucher une grosse prime de fin d'année. Alors en attendant, il faut qu'on soit un peu plus prudent. C'est tout.
 
-####### Il essaye de lui faire une bise, elle se barre.
+>  Il essaye de lui faire une bise, elle se barre.
 
 
 ## Épisode n°=3
@@ -648,7 +648,7 @@ C'est seulement que... je vais toucher une grosse prime de fin d'année. Alors e
 #### Séquence 14
 ##### Hotel Select, Chambre de Mirta
 ###### Mirta Torres, Roland Marci, Aicha Djellal
-####### Roland rejoint Mirta
+>  Roland rejoint Mirta
 
 # Roland Marci
 Mirta
@@ -671,7 +671,7 @@ Arrête de dire des bêtises.
 # Roland Marci
 Je plaisante pas. J'en ai assez de me cacher.
 
-####### ça toque
+>  ça toque
 # Aicha Djellal
 Mirta c'est Aicha
 
@@ -705,7 +705,7 @@ Roland veut épouser Mirta
 Roland !
 
 # Roland Marci
-####### Il ouvre la porte et le dis dans l'escalier
+>  Il ouvre la porte et le dis dans l'escalier
 Mirta. Je veux vivre avec toi
 
 # Mirta Torres
@@ -725,6 +725,6 @@ Et bien ça marche pas avec moi, ça, si notre relation ne te convient pas.
 
 # Roland Marci
 Tu as conscience de ce que ça signifie. Je reviendrais plus. Plus jamais. Si je passe cette porte, c'est pour toujours. Définitif.
-####### Il la passe.
+>  Il la passe.
 
 

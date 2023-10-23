@@ -4,7 +4,7 @@
 ##### Loft de Vincent
 ###### Vincent, Lucas, Rudy
 
-####### [Vincent ouvre la porte et vois Lucas & Rudy]
+>  > Vincent ouvre la porte et vois Lucas & Rudy]
 
 # Vincent  :
 Ah bravo c’est comme ça qu’on accueille les nouveaux arrivants chez vous ?
@@ -21,7 +21,8 @@ Hey arrête
 # Vincent
 Ok, Ok, je m’en fou. Posez ces affaires où vous les avez trouvées et fichez-moi le camp.
 
-####### [Lucas & Rudy posent les affaires quand la clé du loft tombe de la poche de Rudy]
+>
+> Lucas & Rudy posent les affaires quand la clé du loft tombe de la poche de Rudy]
 
 # Vincent
 Vous avez trouvé ça ou ?
@@ -35,7 +36,7 @@ Elle est où ma fille hein ?  Elle est où ?
 # Rudy
 Je n’en sais rien
 
-####### [Vincent secoue Rudy]
+>  > Vincent secoue Rudy]
 
 # Rudy
 Mais j’en sais rien
@@ -76,11 +77,11 @@ Plage de la pointe rouge, sur la corniche
 # Vincent
 Plage de la pointe rouge, j’espère pour vous que je vais la trouver sinon vous vous  expliquerez avec les flics… Les flics…
 
-####### [Rudy met une pichenette à Lucas]
+>  > Rudy met une pichenette à Lucas]
 
-####### [Lucas essuie sa sueur et enlève ses lunettes]
+>  > Lucas essuie sa sueur et enlève ses lunettes]
 
-####### [Vincent ferme à clé le loft en laissant Lucas & Rudy à l’intérieur].
+>  > Vincent ferme à clé le loft en laissant Lucas & Rudy à l’intérieur].
 
  ------------------------------------------------------------------------------------------------------------------
 
@@ -90,16 +91,16 @@ Plage de la pointe rouge, j’espère pour vous que je vais la trouver sinon vou
 ##### Plage
 ###### Ninon, Vincent
 
-####### [Ninon trempe ses pieds et sa main dans l’eau]
+>  > Ninon trempe ses pieds et sa main dans l’eau]
 
-####### [Vincent arrive sur la Plage]
+>  > Vincent arrive sur la Plage]
 
-####### [Ninon voit son père et essaye de prendre la fuite…]
+>  > Ninon voit son père et essaye de prendre la fuite…]
 
 # Vincent
 Ninon !
 
-####### [Vincent rattrape Ninon].
+>  > Vincent rattrape Ninon].
 
 # Ninon
 Lâche-moi, Lâche-moi où je hurle
@@ -119,12 +120,12 @@ Je ne viens pas avec toi, t’es venu pour rien.
 # Vincent
 Écoute Ninon, Où t’a dormi, avec qui passons ? Mais je te rappelle que tu es mineure, et que jusqu’à preuve du contraire je suis responsable de toi.
 
-####### [Ninon se fiche de son père et applaudie sur un ton ironique]
+>  > Ninon se fiche de son père et applaudie sur un ton ironique]
 
 # Ninon
 Quelle autorité, Bravo ! C’est beau d’avoir un vrai père, depuis le temps que j’en rêve. Je rentre chez toi pour récupérer mes affaires et je rentre à Paris après.
 
-[Ninon prend ses affaires et quitte la plage avec son Père].
+> Ninon prend ses affaires et quitte la plage avec son Père].
 
 ## Épisode n°=5
 ### La gifle de Vincent
@@ -132,7 +133,7 @@ Quelle autorité, Bravo ! C’est beau d’avoir un vrai père, depuis le temps 
 ##### Loft de Vincent
 ###### Lucas, Rudy, Ninon, Vincent
 
-[Lucas & Rudy sont toujours enfermés]
+> Lucas & Rudy sont toujours enfermés]
 
 # Lucas
 Attend mais t’es inconscient ou quoi ? Il a cru qu’on avait dépouillé sa fille, violé même. Et toi t’a cru qu’il allait nous laisser partir comme ça, sans appeler les flics. T’a raison… Tsss…
@@ -155,12 +156,12 @@ Bas faut croire, Ouai, Ouai…
 # Lucas
 Moi si j’envoie pas ma lettre de motivation aujourd’hui c’est foutu pour l’ENCAM. Alors vas-y il propose quoi hein, le grand malin pour nous sortir d’ici. Moi j’ai failli faire du cinéma moi. Hein, j’étais vraiment à deux doigts.
 
-[La porte du loft s’ouvre]
+> La porte du loft s’ouvre]
 
 # Rudy
 Là dans dix minutes on est soit au poste, soit en train d’envoyer ta lettre.
 
-[Ninon entre et  voit Rudy & Lucas].
+> Ninon entre et  voit Rudy & Lucas].
 
 # Ninon
 Ah ouai d’accord.
@@ -171,12 +172,12 @@ Foutez-moi le camp
 # Rudy
 Écoutes Ninon…
 
-[Lucas & Rudy quittent le Loft de Vincent]
+> Lucas & Rudy quittent le Loft de Vincent]
 
 # Ninon
 C’est tout ce que tu as trouvé pour me récupérer. Les cuisiner et les mettre sous clés comme un flic. Pff, tu me déçois trop tient.
-[Ninon va chercher un sac dans sa chambre et reviens dans le salon]
-[Elle prépare son sac pour rentrer à Paris].
+> Ninon va chercher un sac dans sa chambre et reviens dans le salon]
+> Elle prépare son sac pour rentrer à Paris].
 
 # Vincent
 Tu ne vas pas partir comme ça, il faut qu’on se parle avant Ninon. C’est grave de disparaitre comme tu l’as fait. Je pense qu’on a des choses à ce dire.
@@ -202,12 +203,12 @@ Ne crie pas comme ça.
 # Ninon
 Toute ma vie à exploser à cause de toi, tu t’es jamais demandé ce que ça me faisait de me séparer de Maman, et maintenant faudrait encore que je quitte mes copains, mon bahut, mes Co.. Mes cours de musique, mon groupe,  tout ça pour vivre dans une ville que je connais pas avec toi. Mais tu rigoles. Tu vas te retrouver tout seul et c’est tout ce que tu mérites.
 
-[Vincent agrippe Ninon par les poignets]
+> Vincent agrippe Ninon par les poignets]
 
 # Ninon
 Lâches moi, Lâches moi
 
-[Ninon rigole nerveusement]
+> Ninon rigole nerveusement]
 
 # Ninon
 T’en a jamais rien eu à foutre de moi, ni de maman, ni de personne. Tout ce qui t’intéresse c’est ton boulot et tes pétasses.
@@ -218,9 +219,9 @@ Mais tu vas te taire.
 # Ninon
 Et tout ça, c’est parce que la seule personne au monde que tu respectes c’est toi, toi, toi, toi
 
-[Vincent flanque une gifle à Ninon]
+> Vincent flanque une gifle à Ninon]
 
-[Ninon part en pleurant dans sa chambre]
+> Ninon part en pleurant dans sa chambre]
 
 # Vincent :
 Ah ouai, quel con putain ! Quel con
@@ -242,12 +243,12 @@ Elle va être contente Rachel. Ça se trouve elle verra même pas la différence
 # Mirta
 Bas j’espère bien, parce que c’est le but de l’opération.
 
-[Mirta installe la lampe sur la commode de Rachel.]
+> Mirta installe la lampe sur la commode de Rachel.]
 
 # Mirta
 Il paraît qu’un déménagement ça passe en troisième position sur l’échelle du stress, juste après le deuil et le licenciement. Alors tu imagines ? À son âge…
 
-[Mirta sort des affaires d’une boite en plastique]
+> Mirta sort des affaires d’une boite en plastique]
 
 # Mirta
 Si elle retrouve toutes ses petites affaires, ça sera quand même mieux. Alors, écoutes demain on installe tout, l’après-midi je vais la chercher à l’hôpital. Tu pourras me garder l’hôtel pendant ce temps-là ?
@@ -255,7 +256,7 @@ Si elle retrouve toutes ses petites affaires, ça sera quand même mieux. Alors,
 # Aïcha
 Oui bien sûr.
 
-[Aïcha range les affaires de Rachel avec Mirta]
+> Aïcha range les affaires de Rachel avec Mirta]
 
 # Aïcha
 Oh ça me fait tellement plaisir de redevenir infirmière, même si j’ai qu’une seule patiente. Oh ça va me faire du bien. Hey je suis très contente de mon travail ici, s’est pas ça.
@@ -266,7 +267,7 @@ Ne t’inquiètes pas, c’est normal, c’est ton métier. Ne te réjouis pas t
 # Aïcha
 Oh ne t’inquiètes pas j’ai l’habitude j’en ai soigné des vieilles dames en Algérie et des pas commodes. Moi je m’entends bien avec elles, et elles en savent des choses. Quand elles se laissent aller aux confidences, tu serais étonné.
 
-[Mirta et Aïcha rigolent]
+> Mirta et Aïcha rigolent]
 
 # Mirta
 Hé bas tu ne vas pas être déçue.
@@ -277,12 +278,12 @@ Hé bas tu ne vas pas être déçue.
 ##### Terrasse du Mistral
 ###### Roland, Blanche
 
-[Roland voit Blanche, et va la voir]
+> Roland voit Blanche, et va la voir]
 
 # Roland
 Oh ça va ma Belle, où tu cours avec ton Barda, hein
 
-[Roland fait la bise à Blanche, sa belle-fille].
+> Roland fait la bise à Blanche, sa belle-fille].
 
 # Blanche
 Il faut que j’installe ça dans ma nouvelle classe, c’est fini les vacances hein ?
@@ -326,7 +327,7 @@ Non qu’est ce qui se passe ?
 # Roland
 Il se passe heu… Il passe heu… Il veut vendre figure toi. Et moi j’aurai plus qu’à aller à la pêche.
 
-[Blanche est très étonnée]
+> Blanche est très étonnée]
 
 # Roland
 C’est lui le proprio note bien.
@@ -343,7 +344,7 @@ Mais, Mais, Mais ne t’inquiètes pas va… hein,  Tu connais ton mari, dès qu
 ##### Atelier de Charlotte
 ###### Blanche, Charlotte, Johanna
 
-[Blanche ouvre la porte]
+> Blanche ouvre la porte]
 
 # Charlotte
 Ah
@@ -351,7 +352,7 @@ Ah
 # Blanche
 Alors
 
-[Johanna sort de la cabine d’essayage, toute contente]
+> Johanna sort de la cabine d’essayage, toute contente]
 
 # Johanna
 Regarde Maman, bon c’est pas encore top/top mais ça le fait presque non ?
@@ -359,9 +360,9 @@ Regarde Maman, bon c’est pas encore top/top mais ça le fait presque non ?
 # Charlotte
 Aller viens là que je te mette les épingles.
 
-[Johanna s’admire avec sa nouvelle tenue de patinage]
+> Johanna s’admire avec sa nouvelle tenue de patinage]
 
-[Charlotte admire la tenue de Johanna avec Blanche]
+> Charlotte admire la tenue de Johanna avec Blanche]
 
 # Charlotte
 Vingt heures de boulot, et t’as vu le tissu ?
@@ -373,7 +374,7 @@ Non, c’est superbe…  Je… Je ne sais pas comment te remercier.
 # Charlotte
 Un grand sourire de femme épanouie, ça devrait me suffire.
 
-[Blanche commence à avoir le sourire]
+> Blanche commence à avoir le sourire]
 
 # Blanche
 Dis-moi combien je te dois
@@ -387,7 +388,7 @@ Attends, tu as vu la bombe quand même, ils vont flippés hein.
 # Blanche
 Très beau ma chérie
 
-[Blanche reperd le sourire]
+> Blanche reperd le sourire]
 
 # Charlotte
 Qu’est ce qui se passe ? T’as des emmerdes ? Tu peux me parler, tu sais. C’est grave ?
@@ -407,7 +408,7 @@ A tout à l’heure, t’es magnifique
 # Charlotte
 Salut.
 
-[Blanche part de la Boutique de Charlotte]
+> Blanche part de la Boutique de Charlotte]
 
 # Charlotte
 Bon aller, viens toi.
@@ -421,7 +422,7 @@ Tu ne bouges plus !
 
 Dans le loft de Vincent
 
-[Ninon se lève, et Vincent se réveille]
+> Ninon se lève, et Vincent se réveille]
 
 # Vincent
 Ninon, je suis désolé, pardonne moi pour hier soir… je ne voulais pas. Vraiment. J’ai eu tellement peur qu’il te soit arrivé quelque chose. Ça m’a mis dans un état pas possible. Mais bon, j’ai réfléchi, si tu veux vraiment rentrer à Paris, bas je suis d’accord.
@@ -438,7 +439,7 @@ Moi aussi, j’y suis allée un peu fort hier. On oublie.
 # Vincent
 Ouai, ça marche
 
-[Ninon saute dans les bras de son père]
+> Ninon saute dans les bras de son père]
 
 # Ninon
 C’est génial, j’ai eu Ève au téléphone tout à l’heure, son frère se barre aux États-Unis pendant un an en stage, du coup sa chambre est libre et sa mère est d’accord pour m’accueillir. Elle est trop sa mère, je l’adore. C’est génial
@@ -470,7 +471,7 @@ Appelle, je voudrais prendre le TGV de 12h15.
 ##### Le Select, future chambre de Rachel
 ###### Mirta, Aïcha et Roland
 
-[Mirta, Aïcha et Roland finissent le déménagement de Rachel]
+> Mirta, Aïcha et Roland finissent le déménagement de Rachel]
 
 # Mirta
 Ah Roland, tu tombes bien, tu peux nous aider à pousser le lit, il n’est pas à sa place.
@@ -478,7 +479,7 @@ Ah Roland, tu tombes bien, tu peux nous aider à pousser le lit, il n’est pas 
 # Roland
 Ouai.
 
-[Roland pousse le lit de Rachel, seul]
+> Roland pousse le lit de Rachel, seul]
 
 # Mirta
 Encore, Encore, Encore … Un peu plus contre le mur. Ouai
@@ -522,17 +523,17 @@ heu, bon bas je crois que je vais descendre parce qu’il n’y a personne à l�
 # Roland
 Oui, on va finir tous les deux
 
-[Mirta agrippe Aïcha]
+> Mirta agrippe Aïcha]
 
 # Mirta
 Ho, bas non, non, non, non, on ne sera pas trop de trois. Moi quand je fais un travail, j’aime que ce soit bien fait. Hein.
 
-[Mirta regarde l’horloge]
+> Mirta regarde l’horloge]
 
 # Mirta
 Ben, pourquoi elle ne marche pas l’horloge
 
-[Mirta ouvre la porte de l’horloge]
+> Mirta ouvre la porte de l’horloge]
 
 # Mirta
 La boite… La boite qui fait contre poids, elle est où ?
@@ -570,7 +571,7 @@ Oui, Oui, Oui…
 # Mirta
 Viens, Aïcha, viens vite
 
- [Aïcha & Mirta quittent la chambre de Rachel]
+ > Aïcha & Mirta quittent la chambre de Rachel]
 
 # Roland
 Bon…
@@ -581,9 +582,9 @@ Bon…
 ##### Chantier naval
 ###### Blanche, François
 
-[Blanche arrive et cherche François]
+> Blanche arrive et cherche François]
 
- [François la rejoint]
+ > François la rejoint]
 
 # Blanche
 Tu vas pas vendre le mistral ?
@@ -624,7 +625,7 @@ T’es sur ? Je croyais moi… je sais plus.
 # Blanche
 Arrête, Arrêtes, ça suffit maintenant. STOP !
 
-[Blanche se dirige vers la nacelle]
+> Blanche se dirige vers la nacelle]
 
 # Blanche
 On doit combien exactement ? Et à qui ?
@@ -641,7 +642,7 @@ Je pensais que ça allait s’arranger
 # Blanche
 Que ça allait s’arranger, mais comment ?
 
-[Blanche commence à pleurer]
+> Blanche commence à pleurer]
 
 # Blanche
 En nous emmenant passer des vacances de luxe au Canada.
@@ -673,12 +674,12 @@ Pourquoi tu nous as mis dans ce cauchemar, comment c’est possible ?
 # François
 je ne sais pas.
 
-[François monte dans la nacelle avec Blanche]
+> François monte dans la nacelle avec Blanche]
 
 # François
 Mais chef de famille, pour moi ce n’est pas simplement des mots, j’ai toujours voulu ce qu’il y a de mieux et de meilleurs pour ma femme et mes enfants. Et toi tu mérites ce qu’il y a de plus beau, ce qu’il y a de plus cher.  J’aurai fait n’importe quoi pour ne pas te décevoir. Et maintenant c’est fait.
 
-[Blanche se console avec François]
+> Blanche se console avec François]
 
 # Blanche
 Dis pas de bêtises.
@@ -689,12 +690,12 @@ Dis pas de bêtises.
 ##### Le Select, chambre de Rachel
 ###### Mirta, Rachel, Roland
 
-[Rachel ouvre la porte, et admire sa nouvelle chambre]
+> Rachel ouvre la porte, et admire sa nouvelle chambre]
 
 # Mirta
 Ce n’est qu’une chambre d’hôtel, ce n’est pas comme un appartement, mais c’est même mieux. Parce ce que on est là nous. Si vous avez besoin de quoi que ce soit, à n’importe quelle heure du jour ou de la nuit. Sans parler d’Aïcha, une infirmière à domicile. C’est du luxe ça ?
 
-[Mirta inquiète pour Rachel]
+> Mirta inquiète pour Rachel]
 
 # Mirta
 Rachel, ça va ?
@@ -705,7 +706,7 @@ Ca va très bien. Vous êtes fous. Travail de fourmis.
 # Rachel :
 Ah
 
-[Rachel aperçoit que deux de ses pendules sont inversées, elle les remet bien].
+> Rachel aperçoit que deux de ses pendules sont inversées, elle les remet bien].
 
 # Mirta
 Ce n’est pas le paradeur de Grenade, mais on a fait de notre mieux.
@@ -716,7 +717,7 @@ Un vrai Tyran. Tu sais, au millimètre près il a fallu ranger. Tout à l’iden
 # Rachel
 Évidement ce n’est pas tout à fait pareil. C’est quelques détails. Non mais c’est pour dire quelque chose.
 
-[Rachel pleure, car elle est très émue du geste affectif de Roland et de Mirta]
+> Rachel pleure, car elle est très émue du geste affectif de Roland et de Mirta]
 
 # Rachel
 C’est la 2ème fois que tu me sauve la vie.
@@ -724,17 +725,17 @@ C’est la 2ème fois que tu me sauve la vie.
 # Roland
 Rachel, moi c’est Roland. La première fois c’était mon père. Pendant la guerre, ce n’était pas moi.
 
-[Rachel se dirige vers son horloge]
+> Rachel se dirige vers son horloge]
 
 # Rachel
 On avait presque la même à Cracovie, on a du tout laisser : les livres, les meubles, mes poupées. Papa disait que ce n’était rien car il avait sauvé son bien le plus précieux : Nous. Sa famille.
 
-[Rachel pense que c’est un mouchoir et sort un de ses vêtements dans le deuxième tiroir pour s’essuyer les larmes et elle le pose sur son sofa].
+> Rachel pense que c’est un mouchoir et sort un de ses vêtements dans le deuxième tiroir pour s’essuyer les larmes et elle le pose sur son sofa].
 
 # Rachel
 C’est ce qu’on croyait alors… Tous ces objets, c’est un peu mes parents, ma famille que j’aurai reconstitué années après années. Tant que je les garde auprès de moi, c’est un peu comme s’il n’était pas mort tout à fait. Mais j’ai besoin de rester un peu seul avec eux, sinon je vous connais vous allez pleurer.
 
-[Rachel a le sourire]
+> Rachel a le sourire]
 
 # Roland
 On te laisse te reposer.
@@ -745,11 +746,11 @@ On prépare une petite surprise en bas, pour fêter votre installation.
 # Rachel
 Merci.
 
-[Mirta sort de la chambre avec Roland]
+> Mirta sort de la chambre avec Roland]
 
-[Dans sa chambre, Rachel vérifie quelque chose dans son horloge]
+> Dans sa chambre, Rachel vérifie quelque chose dans son horloge]
 
-[Rachel semble heureuse et épanouie]
+> Rachel semble heureuse et épanouie]
 
 ## Épisode n°=5
 ### La gifle de Vincent
@@ -757,13 +758,13 @@ Merci.
 ##### Bar du Mistral
 ###### Roland, Mélanie, Gilles
 
-[Roland arrive au Bar, et passe derrière le comptoir]
+> Roland arrive au Bar, et passe derrière le comptoir]
 
-[Mélanie essuie des tasses]
+> Mélanie essuie des tasses]
 
 # Roland
 Tu as encore fait du rangement comme tu es là. Je ne retrouve plus rien.
-[Roland cherche le champagne]
+> Roland cherche le champagne]
 Mais c’est ou bon sang de bois
 
 # Mélanie
@@ -775,12 +776,12 @@ Le champagne !
 # Mélanie
 A sa place.
 
-[Mélanie prend la bouteille de champagne et la donne à Roland]
+> Mélanie prend la bouteille de champagne et la donne à Roland]
 
 # Mélanie
 Tiens.
 
- [Roland vois un homme mystérieux qui prend des photos du Bar]
+ > Roland vois un homme mystérieux qui prend des photos du Bar]
 
 # Roland
 C’est qui celui-là ?
@@ -788,7 +789,7 @@ C’est qui celui-là ?
 # Mélanie
 Qu’est-ce que j’en sais… Un touriste. Même pas un verre d’eau à défaut qu’il se ruine.
 
-[Roland pose la bouteille de champagne derrière le comptoir et va voir l’homme qui prend des photos]
+> Roland pose la bouteille de champagne derrière le comptoir et va voir l’homme qui prend des photos]
 
 # Roland
 Oh Gilles.
@@ -799,7 +800,7 @@ Ah Roland
 # Roland
 Qu’est-ce que tu fais dans ton coin ? T’es puni ? Comment va ?
 
-[Roland sert la main à Gilles]
+> Roland sert la main à Gilles]
 
 # Gilles
 Ça va, merci et vous Roland
@@ -813,7 +814,7 @@ Non, Non, merci là il faut vraiment que j’aille à l’agence.
 # Roland
 Oh dit, depuis le temps qu’on ne t’as pas vu. Tu permets hein. Les clients ils pourront bien attendre 5 minutes. On ne vend pas un appartement comme une paire de chaussette.
 
-[Roland s’installe avec Gilles]
+> Roland s’installe avec Gilles]
 
 # Gilles
 Un petit crème alors.
@@ -836,7 +837,7 @@ De quoi ? Qu’est-ce que tu me chantes là ?
 # Gilles
 Il faut bien jeter un coup d’œil avant de le mettre en vente.
 
-[Roland est très surpris]
+> Roland est très surpris]
 
 # Gilles
 François, il vous a tout de même averti que je devais passer.
@@ -847,7 +848,7 @@ François, il vous a tout de même averti que je devais passer.
 ##### Gare
 ###### Ninon, Vincent
 
-[Vincent prend les deux billets achetés]
+> Vincent prend les deux billets achetés]
 
 # Ninon
 Pourquoi t’a pris deux billets ? Tu m’as pris un aller/retour ?
@@ -873,9 +874,9 @@ Bon Alors ?
 # Vincent
 La grisaille parisienne ça a aussi son charme. On peut repartir à zéro, dans un nouveau quartier, et dans un nouvel appartement ça j’y tiens, parce que moi les souvenirs, j’en aurai pas la force.
 
-[Ninon prend les billets de trains]
+> Ninon prend les billets de trains]
 
-[Elle prend son père dans ses bras, et arrache les billets de trains]
+> Elle prend son père dans ses bras, et arrache les billets de trains]
 
 ## Épisode n°=5
 ### La gifle de Vincent
@@ -883,14 +884,14 @@ La grisaille parisienne ça a aussi son charme. On peut repartir à zéro, dans 
 ##### Le Select, hall
 ###### Roland, Rachel, Aïcha, Mirta, Léo
 
-[Roland sert le Champagne en compagnie de Mirta, Aïcha et Rachel]
+> Roland sert le Champagne en compagnie de Mirta, Aïcha et Rachel]
 
-[Aïcha fait signe de ne pas donner de Champagne à Rachel]
+> Aïcha fait signe de ne pas donner de Champagne à Rachel]
 
 # Roland
 Aller Rachel ! C’est la fête
 
-[Roland donne une coupe de champagne à Rachel]
+> Roland donne une coupe de champagne à Rachel]
 
 # Rachel
 Merci.
@@ -901,7 +902,7 @@ Oh le champagne, c’est presque un médicament !
 # Roland
 C’est la fête !
 
-[Ils lèvent leurs verres à la santé de Rachel]
+> Ils lèvent leurs verres à la santé de Rachel]
 
 # Roland
 A Rachel, on est heureux de te retrouver Rachel.
@@ -909,12 +910,12 @@ A Rachel, on est heureux de te retrouver Rachel.
 # Mirta
 Bienvenue chez vous, au Select Hôtel.
 
-[Aïcha regarde par la fenêtre]
+> Aïcha regarde par la fenêtre]
 
 # Aïcha
 Mirta.
 
-[Aïcha lui fait signe de regarder par la fenêtre]
+> Aïcha lui fait signe de regarder par la fenêtre]
 
 # Roland
 Léo ?

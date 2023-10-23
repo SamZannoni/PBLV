@@ -3,7 +3,7 @@
 #### Séquence 1
 ##### Sur la place du Mistral
 ###### Blanche, François, Johanna et Lucas Marci
-####### Blanche, François, Johanna arrivent sur la place du Mistral avec leurs bagages pendant que Lucas les filme.
+> Blanche, François, Johanna arrivent sur la place du Mistral avec leurs bagages pendant que Lucas les filme.
 
 
 # Blanche Marci
@@ -31,7 +31,7 @@ Aah, j’suis contente de rentrer à la maison ! Pas toi ?
 Siii ! Super, le boulot, les impôts, mon père et son sal caractère, tes parents qui appellent toutes les 10 minutes, bah finalement j’étais très bien au Canada moi!
 
 # Blanche Marci
-####### en imitant l’accent canadien
+>  en imitant l’accent canadien
 Tu voudrais t’installer là-bas ?!
 
 # François Marci
@@ -43,17 +43,17 @@ J’ai pas dit ça ! Mais déménager j’serais pas contre !
 #### Séquence 2
 ##### A côté de la boutique de Charlotte
 ###### Rudy Torres, une fille, Charlotte Le Bihac
-####### Rudy Torres arrive avec une fille en portant une valise
+	> Rudy Torres arrive avec une fille en portant une valise
 
 # Rudy Torres
 Bon bah… Voilà !
 
-####### Il pose la valise et embrasse la fille. Charlotte le regarde en rigolant de l’intérieur de sa boutique.
+>  Il pose la valise et embrasse la fille. Charlotte le regarde en rigolant de l’intérieur de sa boutique.
 
 # Rudy Torres
 Bon bah, you have to go hein ! Tu dois prendre ton train tu vas le rater!
 
-####### Il lui tend sa valise
+>  Il lui tend sa valise
 
 # Rudy Torres
 Tiens !
@@ -64,7 +64,7 @@ Je reviens voir toi bientôt ?!
 # Rudy Torres
 Ouaiis… Bah j’espère !
 
-####### La fille s’éloigne en lui envoyant un baiser du bout des doigts.
+>  La fille s’éloigne en lui envoyant un baiser du bout des doigts.
 
 # Charlotte Le Bihac
 Alors Rudy, encore en train de briser un cœur ?!
@@ -85,7 +85,7 @@ Pas toujours crois-moi !
 # François Marci
 J’en ai marre de ce quartier.
 
-####### Arrivant devant chez eux, ils déposent leurs valises.
+> Arrivant devant chez eux, ils déposent leurs valises.
 
 # François Marci
 T’as vu les… les résidences qu’ils construisent près du lycée ? Terrasse, parking, tennis…
@@ -120,10 +120,10 @@ Ho, ça faisait combien de temps que t’avais pas parlé d’eux ?!
 # Blanche Marci
 Oh, bande de jaloux !
 
-####### François embrasse Blanche.
+> François embrasse Blanche.
 
 # Lucas Marci
-#######(toujours avec sa caméra)
+> (toujours avec sa caméra)
 Ah ouais ouais ça c’est bien ça ! Vous pouvez le refaire mais en plus langoureux ?
 
 # François Marci
@@ -141,19 +141,19 @@ Alors y a 5 minutes j’étais le plus fort et maintenant je suis vieux, moche e
 # Blanche Marci
 On aurait dû les abandonner à l’aéroport ! Mais il est peut-être pas encore trop tard !
 
-####### Blanche se cache derrière son sac à main pour embrasser François.
+>  Blanche se cache derrière son sac à main pour embrasser François.
 
 # Lucas Marci
 Ouais ben réfléchissez bien hein ! Parce que, hey, si c’est pas nous qui c’est qui s’occuperas de vous quand vous serez vieux ?! Bah ouais ! Bon aller, plus langoureux j’ai dit ! Aller ! … Vous êtes chiants hein !
 
-####### Blanche et François éclatent de rire.
+>  Blanche et François éclatent de rire.
 
 ## Épisode n°=1
 ### La naissance du Mistral
 #### Séquence 4
 ##### Hôtel le Select : chambre de Mirta
 ###### Mirta Torres, Roland Marci
-####### Mirta et Roland sont dans le lit
+>  Mirta et Roland sont dans le lit
 
 
 Mirta et Roland son dans le lit
@@ -193,7 +193,7 @@ j’ai RDV dans 20 minutes !!
 #### Séquence 5
 ##### Devant chez les Marci
 ###### Rudy Torres, Lucas Marci, Johanna Marci, Blanche Marci, François Marci
-#######
+>
 
 
 # Rudy Torres
@@ -202,7 +202,7 @@ j’ai RDV dans 20 minutes !!
 # Lucas Marci
  Non on les a laissés dans une réserve d’Indiens
 
-####### Johanna se jette dans les bras de Rudy pour lui faire la bise.
+>  Johanna se jette dans les bras de Rudy pour lui faire la bise.
 
 # Rudy Torres
  Eh dis donc, t’es de plus en plus canon toi !
@@ -225,7 +225,7 @@ j’ai RDV dans 20 minutes !!
 # Johanna Marci
  T’façon t’emballes pas trop parce que une canadienne pour mon frère c’est un blouson marron avec de la moumoutte !
 
-####### Rudy et Johanna se tapent dans la main en riant.
+>  Rudy et Johanna se tapent dans la main en riant.
 
 # Lucas Marci
  Nan mais pfff !!
@@ -265,7 +265,7 @@ j’ai RDV dans 20 minutes !!
 #### Séquence 6
 ##### Dans le bureau de Céline Frémont
 ###### Céline Frémont, Vincent Chaumette, une photo de Ninon Chaumette avec le garçon de la séquence 9
-####### Céline fait passer un entretien d'embauche à Vincent
+>  Céline fait passer un entretien d'embauche à Vincent
 
 # Vincent Chaumette
  Pour moi une ville s’est un peu comme une femme ! Si on l’aime assez, on pourra la changer, en douceur, sans qu’elle perde sa personnalité. Et Marseille est une femme qui a beaucoup de personnalité !
@@ -294,7 +294,7 @@ j’ai RDV dans 20 minutes !!
 # Vincent Chaumette
  Ma femme est partie travailler en Afrique comme pédiatre dans une ONG. On est séparés depuis 6 mois.
 
-#######Vincent regarde son téléphone.
+> Vincent regarde son téléphone.
 
 # Vincent Chaumette
  Ah ! Excusez-moi, c’est Ninon justement, ma fille. Elle est à la gare St Charles. Bah je comprends pas, elle devait arriver que demain.
@@ -302,7 +302,7 @@ j’ai RDV dans 20 minutes !!
 # Céline Frémont
  La femme moderne est imprévisible ! Il va falloir vous y faire.
 
-#######Vincent regarde la photo que Ninon lui a envoyé, où il y a aussi un garçon.
+> Vincent regarde la photo que Ninon lui a envoyé, où il y a aussi un garçon.
 
 # Vincent Chaumette
  Bah, qui c’est celui-là ?! Ça commence bien… Excusez-moi je, je vais y aller.
@@ -319,7 +319,7 @@ j’ai RDV dans 20 minutes !!
 # Vincent Chaumette
  Au revoir.
 
-####### Vincent sort du bureau et Celine passe un coup de fil.
+>  Vincent sort du bureau et Celine passe un coup de fil.
 
 # Céline Frémont
  Monsieur Picmal ? Je crois que j’ai trouvé l’architecte qu’il nous faut ! (…) Ah vous verrez ! Il est tout simplement parfait !
@@ -330,7 +330,7 @@ j’ai RDV dans 20 minutes !!
 #### Séquence 7
 ##### Devant chez les Marci et Rachel
 ###### Roland Marci, François Marci, Blanche Marci, Johanna Marci, Rachel Levy, son propriétaire.
-#######Roland s'empresse d'arriver et découvre François, Blanche et Johanna qui l'attendent assis sur la marche de l’entrée.
+> Roland s'empresse d'arriver et découvre François, Blanche et Johanna qui l'attendent assis sur la marche de l’entrée.
 
 # Roland Marci
  Oh les enfants désolé ! Ca fait pas trop longtemps que vous attendez j’espère !
@@ -350,7 +350,7 @@ j’ai RDV dans 20 minutes !!
 # François Marci
  Une intuition !
 
-####### Roland fait la bise à Blanche et s’approche de Johanna.
+>  Roland fait la bise à Blanche et s’approche de Johanna.
 
 # Roland Marci
  Ooh, ma chérie…
@@ -394,22 +394,22 @@ j’ai RDV dans 20 minutes !!
 # Roland Marci
  Ah bah non !
 
-####### La porte de Rachel s’ouvre au même moment et Le propriétaire en sort.
+>  La porte de Rachel s’ouvre au même moment et Le propriétaire en sort.
 
 # Rachel Lévy
  … tant que tu veux, jamais ne quitterais mon appartement ! Tiens voilà ce que j’en fait de ton avis d’expulsion !
 
-####### Rachel fait une boule de la lettre et la jette sur Le propriétaire.
+>  Rachel fait une boule de la lettre et la jette sur Le propriétaire.
 
 # Rachel Lévy
  Et c’est pas la peine de revenir ! Je partirais pas d’ici !
 
-####### Lorsque Le propriétaire passe devant Roland, celui-ci le rattrape.
+>  Lorsque Le propriétaire passe devant Roland, celui-ci le rattrape.
 
 # Roland Marci
  Oh oh oh ! Qu’est-ce qui se passa là ?! Pourquoi tu me l’as mise dans cet état dis !?
 
-####### Mais Le propriétaire s’en va sans répondre.
+>  Mais Le propriétaire s’en va sans répondre.
 
 
 ## Épisode n°=1
@@ -417,7 +417,7 @@ j’ai RDV dans 20 minutes !!
 #### Séquence 8
 ##### Bar du Mistral
 ###### Roland Marci, Le propriétaire, Malik Nassri
-####### Sur la terasse du bar
+>  Sur la terasse du bar
 
 # Roland Marci
  Essaye pas de me prendre par les sentiments ! Tu devrais avoir honte ! Mettre à la rue une personne de cet âge !
@@ -446,12 +446,12 @@ j’ai RDV dans 20 minutes !!
 # Roland Marci
  Ce que je comprends moi, c’est que Rachel, si on la met dehors, elle s’en remettra pas ! Et si elle s’en remet pas, moi non plus je m’en remets pas ! Et c’est même tout le quartier qui s’en remet pas. C’est ça que tu veux ? Tiens je m’en vais sinon je vais m’énerver tu vois.
 
-####### Roland rentre à l’intérieur du bar. Le propriétaire se lève, laisse la monnaie sur la table et s’en va. Roland sort par la deuxième porte et lui barre la route.
+>  Roland rentre à l’intérieur du bar. Le propriétaire se lève, laisse la monnaie sur la table et s’en va. Roland sort par la deuxième porte et lui barre la route.
 
 # Roland Marci
  C’est ça, tire-toi ! Tu t’en sortira pas comme ça hein ! J’ai une botte secrete figure toi ! Et on la trouvera la faille dans ton dossier !
 
-####### Roland va sur la terrasse pour trouver Malik qui nettoie les tables.
+>  Roland va sur la terrasse pour trouver Malik qui nettoie les tables.
 
 # Roland Marci
  Laisse ça ! Tu l’as lu ? Alors ?
@@ -465,7 +465,7 @@ j’ai RDV dans 20 minutes !!
 # Malik Nassri
  Oh ! J’ai pas dit que je voulais pas l’aider ! J’ai dit que c’était compliqué ! Non mais qu’est-ce que tu crois ? que y a que toi qui te fait du soucis pour Rachel ? Allez arrête de râler hein !
 
-####### Malik Nassri rentre dans la cuisine et Roland s’assoit à une chaise de la terrasse.
+>  Malik Nassri rentre dans la cuisine et Roland s’assoit à une chaise de la terrasse.
 
 
 ## Épisode n°=1
@@ -473,7 +473,7 @@ j’ai RDV dans 20 minutes !!
 #### Séquence 9
 ##### A la gare St Charles
 ###### Ninon Chaumette, Le garçon de la photo séquence 6
-#######
+>
 
 # Ninon Chaumette
  C’est super !
@@ -484,7 +484,7 @@ j’ai RDV dans 20 minutes !!
 # Ninon Chaumette
  Bon ben salut hein ! Et j’t’appelle dès que j’suis à Paris d’accord ?
 
-####### Ninon et le garçon se font la bise pendant que Vincent arrive.
+>  Ninon et le garçon se font la bise pendant que Vincent arrive.
 
 # Le garçon
  Y a pas de problèmes ! Allez ciao !
@@ -492,7 +492,7 @@ j’ai RDV dans 20 minutes !!
 # Ninon Chaumette
  Salut bonnes vacances !
 
-#######Le garçon s’éloigne et Vincent le regarde passer du coin de l’œil.
+> Le garçon s’éloigne et Vincent le regarde passer du coin de l’œil.
 
 # Ninon Chaumette
  Hey stress pas ! C’est un musicos que j’ai rencontré dans le train !
@@ -506,7 +506,7 @@ j’ai RDV dans 20 minutes !!
 # Vincent Chaumette
  On s’embrasse d’abord ou on s’engueule tout de suite ?
 
-####### Ils se serrent dans les bras l’un de l’autre.
+>  Ils se serrent dans les bras l’un de l’autre.
 
 # Vincent Chaumette
  Dis donc t’as un jour d’avance qu’est-ce qui s’est passé ?
@@ -556,7 +556,7 @@ j’ai RDV dans 20 minutes !!
 #### Séquence 10
 ##### Sur la plage
 ###### Ninon Chaumette, Vincent Chaumette
-####### Ninon et Vincent mangent un sandwich sur la page
+>  Ninon et Vincent mangent un sandwich sur la page
 
 # Vincent Chaumette
  Oh c’est vraiment pas commode à manger ces trucs-là hein ! Ça prouve que c’est fait pour ceux qui passent leur vie en maillot de bain !
@@ -571,7 +571,7 @@ j’ai RDV dans 20 minutes !!
  Non !
 
  #Vincent Chaumette
- ####### avec l’accent marseillais
+ >  avec l’accent marseillais
  Tranquille le matin, pas trop vite le soir ! Bah j’suis bien d’accord avec eux !
 
 # Ninon Chaumette
@@ -584,7 +584,7 @@ j’ai RDV dans 20 minutes !!
  Bah oui regarde !! Tu perds tes cheveux là !! (Elle lui frotte le crane..)
 
 # Vincent Chaumette
-####### se tâte le crane
+>  se tâte le crane
 Ah bon ??
 
 # Ninon Chaumette
@@ -641,7 +641,7 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
 # Charlotte Le Bihac
  Ohhh ! Ouvrez nous Rachel ! Vous risquez rien ! Y a que Blanche et moi ! On a quelque chose pour vous !
 
-####### Charlotte sort une bouteille de Vodka.
+>  Charlotte sort une bouteille de Vodka.
 
 # Charlotte Le Bihac
  Ah !!
@@ -649,12 +649,12 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
 # Rachel Lévy
  C’est mon expulsion que vous voulez fêter ? Allez donne !
 
-####### Rachel prend la bouteille et l’ouvre pour en sentir le contenu. Elle lance un regarde appréciateur à Charlotte.
+>  Rachel prend la bouteille et l’ouvre pour en sentir le contenu. Elle lance un regarde appréciateur à Charlotte.
 
 # Rachel Lévy
  Hum ! Je vais chercher les verres !
 
-####### Elle referme sa fenêtre et ouvre la porte.
+>  Elle referme sa fenêtre et ouvre la porte.
 
 # Charlotte Le Bihac
  Tu sais c’est un ami qui me la rapporter de Pologne ! Je la gardais pour une grande occasion !
@@ -674,7 +674,7 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
 # Rachel Lévy
  Oui t’as raison ! Pensons au présent ! Alors… L’hospice ? L’armée du salut ?
 
-####### Charlotte glousse.
+>  Charlotte glousse.
 
 # Blanche Marci
  Rachel vous parlez comme si vous étiez toute seule !
@@ -709,7 +709,7 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
 # Rachel Lévy
  Les seniors… Tu peux pas dire les vieux comme tout le monde ?!! Et puis ta résidence je sais très bien ce que c’est ! Non non ! Maintenant on met des mots jolis partout parce qu’on a peur d’appeler un chat un chat ! Mais… avec moi ça prend pas !
 
-####### Rachel rentre chez elle et ferme la porte.
+>  Rachel rentre chez elle et ferme la porte.
 
 # Blanche Marci
  Rooooh !
@@ -722,20 +722,20 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
 #### Séquence 11
 ##### Hôtel le Select : chambre de Mirta
 ###### Mirta Torres, Roland Marci
-####### Roland fume un cigarette en regardant par la fenêtre quand Mirta entre.
+>  Roland fume un cigarette en regardant par la fenêtre quand Mirta entre.
 
 # Mirta Torres
-#######en ouvrant la porte
+> en ouvrant la porte
 Oh toi… Je sens qu’tu peux plus te passer de moi !
 
 # Roland Marci
  Non non c’est pas ça.
 
 # Mirta Torres
-#######en souriant
+> en souriant
 hum hum hum !
 
-#######Mirta s’approche de lui et l’embrasse.
+> Mirta s’approche de lui et l’embrasse.
 
 # Mirta Torres
  Hum !! Comme c’est agréable ce gout de tabac froid ! J’ai l’impression d’être en train d’embrasser un cendrier de bar !
@@ -776,7 +776,7 @@ hum hum hum !
 # Mirta Torres
  Hum un bel objet toutefois
 
-#######Elle veut l’embrasser mais Roland recule.
+> Elle veut l’embrasser mais Roland recule.
 
 # Roland Marci
  Non Mirta ! Pourquoi tu veux pas qu’on vivent ensemble ? On va finir tous les deux, comme Rachel, chacun de son côté !
@@ -802,7 +802,7 @@ hum hum hum !
 # Mirta Torres
  Tu sais bien que siii ! J’crois même que c’est la première fois que j’aime quelqu’un comme ça ! Et si tu m’aimes aussi c’est parce que je suis une femme libre et indépendante ! J’ai pas envie de tout gâcher ! On n’est pas heureux comme ça ?
 
-####### Roland attrape Mirta et la fait tomber sur le lit. Ils éclatent de rire.
+>  Roland attrape Mirta et la fait tomber sur le lit. Ils éclatent de rire.
 
 # Roland Marci
  Comme on fait son lit, on couche !
@@ -816,18 +816,18 @@ hum hum hum !
 #### Séquence 12
 ##### Sur la place du Mistral
 ###### Ninon Chaumette, Blanche Marci, Charlotte Le Bihac, Rachel Lévy, Vincent Chaumette
-#######Vincent et Ninon arrivent les bras chargé de sacs.
+> Vincent et Ninon arrivent les bras chargé de sacs.
 
 # Ninon Chaumette
  Ah merci Papa ! Tu m’as trop gâtée là ! T’as un truc à te faire pardonner non ?!
 
-####### Ils voient Blanche et Charlotte frapper à la porte de Rachel.
+>  Ils voient Blanche et Charlotte frapper à la porte de Rachel.
 
 # Blanche Marci
-#######en cognant du poing sur la porte) : Rachel !! Il a jamais été question d’hospice ! Mais ; vous savez bien qu’on est de votre côté !
+> en cognant du poing sur la porte) : Rachel !! Il a jamais été question d’hospice ! Mais ; vous savez bien qu’on est de votre côté !
 
 # Rachel Lévy
-#######de l’autre côté de la porte
+> de l’autre côté de la porte
 C’est trop tard ! Fichez-moi la paix !
 
 # Charlotte Le Bihac
@@ -840,7 +840,7 @@ C’est trop tard ! Fichez-moi la paix !
  Je sais mais j’essaie plusieurs méthodes !
 
 # Ninon Chaumette
-#######qui s’est approché des deux femmes
+> qui s’est approché des deux femmes
 Il y a un problème j’peux vous aider ?
 
 # Blanche Marci
@@ -856,10 +856,10 @@ Il y a un problème j’peux vous aider ?
  Bonjour ! Ninon s’il te plait viens ma chérie.
 
 # Ninon Chaumette
-#######à Rachel
+> à Rachel
 Tenez bon madame hein ! Vous les aurez !!
 
-#######Blanche donne un coup de coude à Charlotte, puis un deuxième en voyant qu’elle ne réagissait pas.
+> Blanche donne un coup de coude à Charlotte, puis un deuxième en voyant qu’elle ne réagissait pas.
 
 # Charlotte Le Bihac
  Uh ! Il est mignon écoute !!
@@ -959,7 +959,7 @@ Tenez bon madame hein ! Vous les aurez !!
 # Vincent Chaumette
  Ninooon !! Ninon !!
 
-####### Ninon cours dehors et claque la porte. En colère, Vincent donne un coup de pieds dans un carton… de vaisselle.
+>  Ninon cours dehors et claque la porte. En colère, Vincent donne un coup de pieds dans un carton… de vaisselle.
 
 # Vincent Chaumette
  Merde !
@@ -970,10 +970,10 @@ Tenez bon madame hein ! Vous les aurez !!
 #### Séquence 14
 ##### Sur la place du Mistral
 ###### Ninon Chaumette, Lucas Marci, Rudy Torres, Vincent Chaumette
-####### Ninon traverse la place en courant, son père sur les talons. Elle se retrouve dans le champ de vision de la caméra de Lucas qui filme.
+>  Ninon traverse la place en courant, son père sur les talons. Elle se retrouve dans le champ de vision de la caméra de Lucas qui filme.
 
 # Lucas Marci
-####### à Rudy
+>  à Rudy
 Regarde comment elle accroche aux lumières !
 
 # Vincent Chaumette
