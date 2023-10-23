@@ -6,13 +6,10 @@ include 'ressource/ParsedownExtra.php';
 
 // Si jamais le fichier Markdown change, il faut changer le nom ici :
 $texte1 = file_get_contents('episode-1.md');
-$texte2 = file_get_contents('episode-2.md');
-$texte3 = file_get_contents('episode-3.md');
-$texte4 = file_get_contents('episode-4.md');
-$texte5 = file_get_contents('episode-5.md');
-
-// Esai d'ajout des episodes 3, 4, 5. n'a pas marché
-
+// $texte2 = file_get_contents('episode-2.md');
+// $texte3 = file_get_contents('episode-3.md');
+// $texte4 = file_get_contents('episode-4.md');
+// $texte5 = file_get_contents('episode-5.md');
 $extra = new ParsedownExtra();
 
 ?>

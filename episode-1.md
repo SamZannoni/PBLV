@@ -3,6 +3,7 @@
 #### Séquence 1
 ##### Sur la place du Mistral
 ###### Blanche, François, Johanna et Lucas Marci
+####### Blanche, François, Johanna arrivent sur la place du Mistral avec leurs bagages pendant que Lucas les filme.
 
 
 # Blanche Marci
@@ -257,7 +258,7 @@ j’ai RDV dans 20 minutes !!
  Oh ouais !
 
 # Blanche Marci
- En tout cas ils ont les moyens. Ça doit être des lyonnais.
+ En tout cas ils ont les moyens. Ça doit être des parisiens.
 
 ## Épisode n°=1
 ### La naissance du Mistral

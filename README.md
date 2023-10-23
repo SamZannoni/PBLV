@@ -26,7 +26,7 @@ ln -s /opt/lampp/htdocs/ ~/Bureau/htdocs/
 $ sudo /opt/lampp/lampp start
 
 4- accéder a la page web avec le navigateur
-http://localhost/PBLV-web/
+http://localhost/PBLV/
 http://localhost/web2print/PBLV-web/
 
 
