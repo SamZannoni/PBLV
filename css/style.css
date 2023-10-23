@@ -21,6 +21,7 @@ body {
   margin-right:2mm;
   margin-top:0mm;
   margin-bottom:0mm;
+  font-family: sans-serif;
 }
 
 .container_infos{
@@ -28,7 +29,7 @@ body {
 }
 .episode{
   width:100%;
-  font-size:16pt;
+  font-size:13pt;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -36,18 +37,18 @@ body {
 .titre_episode{
   width:max-content;
   float: left;
-  font-size:16pt;
+  font-size:13pt;
   text-decoration: underline;
 }
 .sequence{
-  font-size:14pt;
+  font-size:13pt;
   border-radius:10mm;
   padding :2mm;
   background-color: lightgrey;
 }
 
 .lieu{
-  font-size:14pt;
+  font-size:13pt;
   width: fit-content;
   display: flex;
   align-items: center;
@@ -55,14 +56,14 @@ body {
   margin-top: 4mm;
 }
 .personnages{
-  font-size:14pt;
+  font-size:13pt;
   width: fit-content;
   color:darkred;
 }
 
 }
 .contexte{
-  font-size:14pt;
+  font-size:13pt;
   width: fit-content;
   color: green;
 
@@ -93,3 +94,4 @@ h1{
   margin-left: 15mm;
   text-align: center;
 }
+

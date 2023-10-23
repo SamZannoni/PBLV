@@ -11,7 +11,7 @@ $texte3 = file_get_contents('episode-3.md');
 $texte4 = file_get_contents('episode-4.md');
 $texte5 = file_get_contents('episode-5.md');
 
-// Essai d'ajout des episodes 3, 4, et 5 n'a pas marché
+// Esai d'ajout des episodes 3, 4, 5. n'a pas marché
 
 $extra = new ParsedownExtra();
 
