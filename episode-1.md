@@ -32,6 +32,7 @@ Siii ! Super, le boulot, les impôts, mon père et son sal caractère, tes paren
 
 # Blanche Marci
 >  en imitant l’accent canadien
+
 Tu voudrais t’installer là-bas ?!
 
 # François Marci
@@ -123,7 +124,8 @@ Oh, bande de jaloux !
 > François embrasse Blanche.
 
 # Lucas Marci
-> (toujours avec sa caméra)
+> toujours avec sa caméra
+
 Ah ouais ouais ça c’est bien ça ! Vous pouvez le refaire mais en plus langoureux ?
 
 # François Marci
@@ -726,6 +728,7 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
 
 # Mirta Torres
 > en ouvrant la porte
+
 Oh toi… Je sens qu’tu peux plus te passer de moi !
 
 # Roland Marci
@@ -824,10 +827,13 @@ hum hum hum !
 >  Ils voient Blanche et Charlotte frapper à la porte de Rachel.
 
 # Blanche Marci
-> en cognant du poing sur la porte) : Rachel !! Il a jamais été question d’hospice ! Mais ; vous savez bien qu’on est de votre côté !
+> en cognant du poing sur la porte)
+
+Rachel !! Il a jamais été question d’hospice ! Mais ; vous savez bien qu’on est de votre côté !
 
 # Rachel Lévy
 > de l’autre côté de la porte
+
 C’est trop tard ! Fichez-moi la paix !
 
 # Charlotte Le Bihac
@@ -841,6 +847,7 @@ C’est trop tard ! Fichez-moi la paix !
 
 # Ninon Chaumette
 > qui s’est approché des deux femmes
+
 Il y a un problème j’peux vous aider ?
 
 # Blanche Marci
@@ -857,6 +864,7 @@ Il y a un problème j’peux vous aider ?
 
 # Ninon Chaumette
 > à Rachel
+
 Tenez bon madame hein ! Vous les aurez !!
 
 > Blanche donne un coup de coude à Charlotte, puis un deuxième en voyant qu’elle ne réagissait pas.
@@ -974,6 +982,7 @@ Tenez bon madame hein ! Vous les aurez !!
 
 # Lucas Marci
 >  à Rudy
+
 Regarde comment elle accroche aux lumières !
 
 # Vincent Chaumette

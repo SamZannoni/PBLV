@@ -57,6 +57,11 @@
   }
 
 
+blockquote{
+  color: gray;
+  font-style: italic;
+}
+
   .container_txt{
     width: 15cm;
   }
