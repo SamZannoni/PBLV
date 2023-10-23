@@ -61,12 +61,11 @@ body {
   color:darkred;
 }
 
-}
-.contexte{
-  font-size:13pt;
-  width: fit-content;
-  color: green;
 
+
+blockquote{
+  color: red;
+  font-style: italic;
 }
 
 #container_txt{
