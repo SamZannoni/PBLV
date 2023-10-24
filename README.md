@@ -1,8 +1,23 @@
---- Markdown Cheat Sheet
+~~~~~~~~~~~~ MARKDOWN règles à respecter
 
+
+♣ Bien mettre des espaces entre les # et le texte
+
+♣ Les Hashtags:
+----------------------------------------------------------------------------
+| 1 #     || 2 #        || 3 #        || 4 #       || 5 #      || 6 #      |
+---------------------------------------------------------------------------- 
+| Nom des || Numéro de  || Titre de   || Numéro de || Lieu de  || Personn- |
+| persos  || l'épisode  || l'épisode  || la séq.   || la séq.  || ages     |
+----------------------------------------------------------------------------
+
+♣ Les Blockquotes > 
+Didascalies
+
+♣ CheatSheet:
 https://www.markdownguide.org/cheat-sheet/
 
---------WINDOWS 
+~~~~~~~~~~~~ WINDOWS 
 
 1. Installer un serveur pour php (MAMP sur windows/mac et Xampp sur linux)
     WINDOWS : https://www.mamp.info/en/mamp/windows/
@@ -15,9 +30,9 @@ https://www.markdownguide.org/cheat-sheet/
 4. Lancer Xampp/Mamp et taper dans le navigateur ( de préférence Firefox pour les sauts de pages) localhost/PBLV-web
 ~
 
----------- LINUX
+~~~~~~~~~~~~ LINUX
 
-1-installer xampp serveur pour php
+1- Installer xampp serveur pour php
 2- changer l'emplacement du dossier de test serveur ou utiliser celui de base 
 /opt/lampp/htdocs/ 
 et faire un lien symbolique :
@@ -27,9 +42,5 @@ $ sudo /opt/lampp/lampp start
 
 4- accéder a la page web avec le navigateur
 http://localhost/PBLV/
-http://localhost/web2print/PBLV-web/
 
 
---- to do
-
- [] Ajouter en données : Numéro de l'épisode, Titre de l'épisode, Numéro de la séquence, Lieu, Personnages
