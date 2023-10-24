@@ -1,5 +1,6 @@
-~~~~~~~~~~~~ MARKDOWN règles à respecter
+~~~~~~~~~~~~
 
+MARKDOWN règles à respecter
 
 ♣ Bien mettre des espaces entre les # et le texte
 
@@ -17,7 +18,10 @@ Didascalies
 ♣ CheatSheet:
 https://www.markdownguide.org/cheat-sheet/
 
-~~~~~~~~~~~~ WINDOWS 
+~~~~~~~~~~~~ 
+
+~~~~~~~~~~~~ 
+WINDOWS 
 
 1. Installer un serveur pour php (MAMP sur windows/mac et Xampp sur linux)
     WINDOWS : https://www.mamp.info/en/mamp/windows/
@@ -30,7 +34,10 @@ https://www.markdownguide.org/cheat-sheet/
 4. Lancer Xampp/Mamp et taper dans le navigateur ( de préférence Firefox pour les sauts de pages) localhost/PBLV-web
 ~
 
-~~~~~~~~~~~~ LINUX
+~~~~~~~~~~~~ 
+~~~~~~~~~~~~ 
+
+LINUX
 
 1- Installer xampp serveur pour php
 2- changer l'emplacement du dossier de test serveur ou utiliser celui de base 
@@ -44,3 +51,4 @@ $ sudo /opt/lampp/lampp start
 http://localhost/PBLV/
 
 
+~~~~~~~~~~~~ 
