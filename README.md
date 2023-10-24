@@ -1,7 +1,5 @@
+#### Les règles du Markdown
 ~~~~~~~~~~~~
-
-MARKDOWN règles à respecter
-
 ♣ Bien mettre des espaces entre les # et le texte
 
 ♣ Les Hashtags:
@@ -20,6 +18,8 @@ https://www.markdownguide.org/cheat-sheet/
 
 ~~~~~~~~~~~~ 
 
+#### Installation du serveur 
+
 ~~~~~~~~~~~~ 
 WINDOWS 
 
@@ -36,7 +36,6 @@ WINDOWS
 
 ~~~~~~~~~~~~ 
 ~~~~~~~~~~~~ 
-
 LINUX
 
 1- Installer xampp serveur pour php
