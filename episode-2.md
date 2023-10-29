@@ -71,7 +71,7 @@ C'est à cause de ma fille. J'ai plus de nouvelles depuis hier soir.
 Ah bon, quel âge elle a ?
 
 # Vincent
-17 ans
+e 17 ans
 
 # Roland
 Oh, Vous en faites pas trop. À cet âge, on est tellement insouciants, hein ? Et puis faudra vous habituer
@@ -513,7 +513,7 @@ Tu parles, des travaux... Ça fait dix ans que tu dois les faire.
 
 # Roland
 Et merci.
->  aux clients]
+>  aux clients
 
 Ben quoi ? Lui aussi il m'a fait de la peine. Et oui, il m'a fait de la peine.
 
@@ -561,7 +561,7 @@ Ah bah voilà celle que je cherchais et en retard comme d'habitude. Un concert e
 
 # Ninon
 écoute là j'ai pas trop le temps. J'ai des emmerdes.
->  elle voit son daron, elle se cache]
+>  elle voit son daron, elle se cache
 
 # Rudy
 Qu'est ce qu'il y a ?
@@ -571,7 +571,7 @@ C'est pas trop chicos ton concert, parce que j'ai rien d'autre à mettre là.
 
 # Rudy
 Non, non, non, non, non, non, t'es très bien comme ça. Très très bien même, change rien. Allo ? Oui Lucas, oui, c'est moi. Oui, oui, oui, oui, tu sais, le concert de soir, c'est vraiment pas de bol, c'est annulé. Ah bah ouais je sais. Ouais, mais je crois qu'il y a comme un petit contretemps , comme un cas de force majeure
->  Ninon l'attrape pour bouger].
+>  Ninon l'attrape pour bouger.
 
 Ah ouais ouais, je te rappelle la je suis super pressé.
 
