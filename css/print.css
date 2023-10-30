@@ -53,6 +53,7 @@
     font-size: 13pt;
     width: fit-content;
     color: darkred;
+    font-family: sans-serif;
   }
 
   .contexte {
@@ -67,8 +68,8 @@
     font-style: italic;
   }
 
-  .container_txt {
-    width: 15cm;
+  #container_txt {
+    width: 17cm;
   }
 
   p {

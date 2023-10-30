@@ -5,23 +5,23 @@
 ♣ Les Hashtags:
 ----------------------------------------------------------------------------
 | 1 #     || 2 #        || 3 #        || 4 #       || 5 #      || 6 #      |
----------------------------------------------------------------------------- 
+----------------------------------------------------------------------------
 | Nom des || Numéro de  || Titre de   || Numéro de || Lieu de  || Personn- |
 | persos  || l'épisode  || l'épisode  || la séq.   || la séq.  || ages     |
 ----------------------------------------------------------------------------
 
-♣ Les Blockquotes > 
+♣ Les Blockquotes >
 Didascalies
 
 ♣ CheatSheet:
 https://www.markdownguide.org/cheat-sheet/
 
-~~~~~~~~~~~~ 
+~~~~~~~~~~~~
 
-#### Installation du serveur 
+#### Installation du serveur
 
-~~~~~~~~~~~~ 
-WINDOWS 
+~~~~~~~~~~~~
+WINDOWS
 
 1. Installer un serveur pour php (MAMP sur windows/mac et Xampp sur linux)
     WINDOWS : https://www.mamp.info/en/mamp/windows/
@@ -34,13 +34,13 @@ WINDOWS
 4. Lancer Xampp/Mamp et taper dans le navigateur ( de préférence Firefox pour les sauts de pages) localhost/PBLV-web
 ~
 
-~~~~~~~~~~~~ 
-~~~~~~~~~~~~ 
+~~~~~~~~~~~~
+~~~~~~~~~~~~
 LINUX
 
 1- Installer xampp serveur pour php
-2- changer l'emplacement du dossier de test serveur ou utiliser celui de base 
-/opt/lampp/htdocs/ 
+2- changer l'emplacement du dossier de test serveur ou utiliser celui de base
+/opt/lampp/htdocs/
 et faire un lien symbolique :
 ln -s /opt/lampp/htdocs/ ~/Bureau/htdocs/
 3. lancer le serveur avec
@@ -50,4 +50,11 @@ $ sudo /opt/lampp/lampp start
 http://localhost/PBLV/
 
 
-~~~~~~~~~~~~ 
+~~~~~~~~~~~~
+
+To do
+
+- Centrer le texte
+- Didascalies qui doivent prendre tout l'espace de la largeur
+- le texte peut prendre plus de place
+- changement de typo pour les didascalies

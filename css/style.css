@@ -71,10 +71,13 @@ body {
 blockquote {
   color: gray;
   font-style: italic;
+  position: relative;
+  width: 200mm;
+  margin-left: 0mm;
 }
 
 #container_txt {
-  width: 15cm;
+  width: 17cm;
 }
 
 span {
