@@ -28,10 +28,10 @@ J’aime quand on me parle comme ça ! T’entend Blanche ?
 Aah, j’suis contente de rentrer à la maison ! Pas toi ?
 
 # François Marci
-Siii ! Super, le boulot, les impôts, mon père et son sal caractère, tes parents qui appellent toutes les 10 minutes, bah finalement j’étais très bien au Canada moi!
+Siii ! Super, le boulot, les impôts, mon père et son sal caractère, tes parents qui appellent toutes les 10 minutes, bah finalement j’étais très bien en haute Loire!
 
 # Blanche Marci
->  en imitant l’accent canadien
+>  en imitant l’accent de haute Loire
 
 Tu voudrais t’installer là-bas ?!
 
@@ -44,7 +44,8 @@ J’ai pas dit ça ! Mais déménager j’serais pas contre !
 #### Séquence 2
 ##### A côté de la boutique de Charlotte
 ###### Rudy Torres, une fille, Charlotte Le Bihac
-	> Rudy Torres arrive avec une fille en portant une valise
+
+> Rudy Torres arrive avec une fille en portant une valise
 
 # Rudy Torres
 Bon bah… Voilà !
@@ -60,7 +61,7 @@ Bon bah, you have to go hein ! Tu dois prendre ton train tu vas le rater!
 Tiens !
 
 # La fille
-Je reviens voir toi bientôt ?!
+Je reviens te voir bientôt ?!
 
 # Rudy Torres
 Ouaiis… Bah j’espère !
@@ -89,10 +90,11 @@ J’en ai marre de ce quartier.
 > Arrivant devant chez eux, ils déposent leurs valises.
 
 # François Marci
-T’as vu les… les résidences qu’ils construisent près du lycée ? Terrasse, parking, tennis…
+T’as vu les… les résidences qu’ils construisent près de la gare de chateaucreux ? Encore un nouveau batiment avec une "torres building" qui aura terrasse, parking ....
 
 # Blanche Marci
-C’est complètement aseptisé leurs trucs,  tous les appartements se ressemble ! Et puis t’as vu les prix, exorbitants !
+
+C’est complètement aseptisé leurs trucs,  tous les appartements se ressemble ! Et puis t’as vu les prix, exorbitants ! En plus, la fresque qui faisait partie du décor à disparu ...
 
 # François Marci
 Les prix c’est pas forcément un problème.
@@ -101,10 +103,10 @@ Les prix c’est pas forcément un problème.
 Avec tout ce qu’on a dépensé pendant les vacances ? Ah, ça tu l’as fait crépiter la carte bleue !
 
 # François Marci
-Hey on n’allait tout de même pas rater les baleines, les Grands Lacs…
+Hey on n’allait tout de même pas rater la cathédrale du puy en velay, les broderie...
 
 # Blanche Marci
-Le rafting, le canyoning, euh, les grands restos, les comédies musicales…
+Le kayak, les parapentes, euh, les grands restos, la rando ...
 
 # François Marci
 Eh oui. Et ça s’appelle comment ça ? Des vacances…
@@ -124,7 +126,7 @@ Oh, bande de jaloux !
 > François embrasse Blanche.
 
 # Lucas Marci
-> toujours avec sa caméra
+> (toujours avec sa caméra)
 
 Ah ouais ouais ça c’est bien ça ! Vous pouvez le refaire mais en plus langoureux ?
 
@@ -141,7 +143,7 @@ Ouais elle a raison là
 Alors y a 5 minutes j’étais le plus fort et maintenant je suis vieux, moche et pauvre ! C’est ingrats les enfants !
 
 # Blanche Marci
-On aurait dû les abandonner à l’aéroport ! Mais il est peut-être pas encore trop tard !
+On aurait dû les abandonner à la gare ! Mais il est peut-être pas encore trop tard !
 
 >  Blanche se cache derrière son sac à main pour embrasser François.
 
@@ -155,19 +157,22 @@ Ouais ben réfléchissez bien hein ! Parce que, hey, si c’est pas nous qui c�
 #### Séquence 4
 ##### Hôtel le Select : chambre de Mirta
 ###### Mirta Torres, Roland Marci
+
+Indiquation de jeu; caler du gaga, placer quelques fouilla
+
+Sequence de reve GJ
+
+
 >  Mirta et Roland sont dans le lit
-
-
-Mirta et Roland son dans le lit
 
 # Mirta Torres
 Huuumm ! Salut beau gosse !
 
 # Roland Marci
- Quand tu dors, on te mangerait toute crue tellement tu es jolie !
+ Tu es vraiment a croquer quand tu reves des Gilets Jaunes !
 
 # Mirta Torres
- Ooooh !!! Roland, t’as vu l’heure ? 9h20 !
+ça fait 5 ans déja... Ooooh !!! Roland, t’as vu l’heure ? 9h20 !
 
 # Roland Marci
  Eh bah on s’en fou de l’heure !
@@ -176,19 +181,20 @@ Huuumm ! Salut beau gosse !
  Mais comment ça on s’en fou ? Tes clients t’attendent, et les miens aussi !
 
 # Roland Marci
- Eh bah qu’ils continuent ! Combien de temps j’ai attendu moi pour que tu me regarde ?! Hein !
+ Eh bah qu’ils continuent ! Combien de temps j’ai attendu moi pour que tu me regarde ?! Hein ! Et puis y'a la manif !
 
 # Mirta Torres
-j’ai RDV dans 20 minutes !!
+j’ai RDV dans 20 minutes !! [Mais vas y ! Pour l'honneur des travailleurs et pour un monde meilleur !]
 
 # Roland Marci
- Oh allé, encore 5 minutes dis !! Aujourd’hui y a toute ma smala qui débarque ! C’est notre dernier matin tranquille, tous les deux ! Hein ! Et puis tu sais moi, la rentrée ça me rappelle l’école, oh je suis, je suis tout angoissé…
+ Oh allé, encore 5 minutes dis !! Aujourd’hui y a toute ma troupe qui débarque ! C’est notre dernier matin tranquille, tous les deux ! Hein ! Et puis tu sais moi, la rentrée ça me rappelle l’école, oh je suis, je suis tout angoissé…
 
 # Mirta Torres
  Comédien, comédien !!
 
 # Roland Marci
- Il faut que tu me désangoisse, il faut que tu me désangoisse !!
+Jte juuure jsuis trop angoissé.... vas y on reste encore un peu !
+
 
 ## Épisode n°=1
 ### La naissance du Mistral
@@ -202,7 +208,7 @@ j’ai RDV dans 20 minutes !!
  Salut les Marci ! Bah, vous avez perdu vos parents ?!
 
 # Lucas Marci
- Non on les a laissés dans une réserve d’Indiens
+ Non on les a laissés dans un couvent de bonnes soeurs
 
 >  Johanna se jette dans les bras de Rudy pour lui faire la bise.
 
@@ -213,10 +219,10 @@ j’ai RDV dans 20 minutes !!
  Oh c’est bon !! T’es devenu aveugle toi pendant les vacances ou quoi ?!
 
 # Rudy Torres
- Oh t’es méchant ! Bon alors, le Canada ?
+ Oh t’es méchant ! Bon alors, la haute loire ?
 
 # Lucas Marci
- Nan, nan, toi tu veux parler des Canadiennes !
+ Nan, nan, toi tu veux parler des des filles de la haute loire !
 
 # Rudy Torres
  Ouais bon bref !
@@ -254,13 +260,13 @@ j’ai RDV dans 20 minutes !!
  Tu parles, ils ont tous pris le large quand ils ont su qu’on rentrait de vacances oui ! Tiens, ils ont finis les travaux ! Rudy tu les as vus les nouveaux propriétaires ?
 
 # Rudy Torres
- Euh non ! Mais j’aimerais bien que ce soit Laetitia Casta qui s’installe !
+ Euh non ! Mais j’aimerais bien que ce soit Lady Gaga qui s’installe !
 
 # Lucas Marci
  Oh ouais !
 
 # Blanche Marci
- En tout cas ils ont les moyens. Ça doit être des parisiens.
+ En tout cas ils ont les moyens. Ça doit être des lyonnais..
 
 ## Épisode n°=1
 ### La naissance du Mistral
@@ -270,36 +276,36 @@ j’ai RDV dans 20 minutes !!
 >  Céline fait passer un entretien d'embauche à Vincent
 
 # Vincent Chaumette
- Pour moi une ville s’est un peu comme une femme ! Si on l’aime assez, on pourra la changer, en douceur, sans qu’elle perde sa personnalité. Et Marseille est une femme qui a beaucoup de personnalité !
+Pour moi une ville s’est un peu comme une femme ! Si on l’aime assez, on pourra la changer, en douceur, sans qu’elle perde sa personnalité. Et Saint Étienne est une femme qui a beaucoup de personnalité !
 
 # Céline Frémont
- Sans parler de ses habitants. Vous vous en rendrez vite compte si vous obtenez ce poste.
+[Elle fait bien bien la moue, exaspérée (blanc ou quoi) ] Ici les habitants sont chaleureux contrairement aux lyonnais. Vous vous rendrez vite compte du changement si vous obtenez ce poste.
 
 # Vincent Chaumette
  Oh je compte bien l’obtenir ! Ce serait un plaisir de travailler avec vous.
 
 # Céline Frémont
- Euh… Vous pouvez m’en dire un peu plus sur vos motivations ?
+ Euh… (d'un air agacée) Vous pouvez m’en dire un peu plus sur vos motivations ?
 
 # Vincent Chaumette
- C’est à cause d’une femme que je veux m’installer à Marseille.
+ C’est à cause d’une femme que je veux m’installer à Saint-Étienne.
 
 # Céline Frémont
- Ah ! Très bien.
+ Ah ! Très bien, mais reconcentrons-nous sur vos motivations professionnelles !
 
 # Vincent Chaumette
  Jolie, 17 ans, adorable, il faut dire que c’est ma fille. J’ai beaucoup voyagé pour mon travail, beaucoup trop. Je l’ai à peine vue grandir et, je veux rattraper le temps perdu.
 
 # Céline Frémont
- Et votre femme ? L’idée de s’installer à Marseille lui plait ?
+ Et votre femme ? L’idée de s’installer à Saint Étienne lui plait ?
 
 # Vincent Chaumette
- Ma femme est partie travailler en Afrique comme pédiatre dans une ONG. On est séparés depuis 6 mois.
+ Ma femme est partie au Proche-Orient se former en tant que forestière. On est séparés depuis 6 mois.
 
 > Vincent regarde son téléphone.
 
 # Vincent Chaumette
- Ah ! Excusez-moi, c’est Ninon justement, ma fille. Elle est à la gare St Charles. Bah je comprends pas, elle devait arriver que demain.
+ Ah ! Excusez-moi, c’est Ninon justement, ma fille. Elle est à la gare de Chateaucreux. Bah je comprends pas, elle devait arriver que demain.
 
 # Céline Frémont
  La femme moderne est imprévisible ! Il va falloir vous y faire.
@@ -310,13 +316,14 @@ j’ai RDV dans 20 minutes !!
  Bah, qui c’est celui-là ?! Ça commence bien… Excusez-moi je, je vais y aller.
 
 # Céline Frémont
+
  Elle a l’air ravie en tout cas.
 
 # Vincent Chaumette
- Oui. Et bien j’espère qu’elle le sera autant quand je lui aurais dit qu’on s’installe ici. Je pouvais pas lui annoncer ça par téléphone.
+ Oui.  Et bien j’espère qu’elle le sera autant quand je lui aurais dit qu’on s’installe ici. Je pouvais pas lui annoncer ça par téléphone.
 
 # Céline Frémont
- Vous avez sans doute bien fait.  D’autant qu’il vous reste à convaincre l’adjoint au maire. Mercredi, 10h dans son bureau.
+ Vous avez sans doute bien fait.  D’autant qu’il vous reste à convaincre Monsieur Gauttiri l’adjoint au maire. Mercredi, 10h dans son bureau.
 
 # Vincent Chaumette
  Au revoir.
@@ -324,7 +331,7 @@ j’ai RDV dans 20 minutes !!
 >  Vincent sort du bureau et Celine passe un coup de fil.
 
 # Céline Frémont
- Monsieur Picmal ? Je crois que j’ai trouvé l’architecte qu’il nous faut ! (…) Ah vous verrez ! Il est tout simplement parfait !
+ Monsieur Gauttiri ? Je crois que j’ai trouvé l’architecte qu’il nous faut ! (…) Ah vous verrez ! Il est tout simplement parfait !
 
 
 ## Épisode n°=1
@@ -332,7 +339,7 @@ j’ai RDV dans 20 minutes !!
 #### Séquence 7
 ##### Devant chez les Marci et Rachel
 ###### Roland Marci, François Marci, Blanche Marci, Johanna Marci, Rachel Levy, son propriétaire.
-> Roland s'empresse d'arriver et découvre François, Blanche et Johanna qui l'attendent assis sur la marche de l’entrée.
+> Roland s'empresse d'arriver en cachant un gilet jaune et découvre François, Blanche et Johanna qui l'attendent assis sur la marche de l’entrée.
 
 # Roland Marci
  Oh les enfants désolé ! Ca fait pas trop longtemps que vous attendez j’espère !
@@ -370,10 +377,10 @@ j’ai RDV dans 20 minutes !!
  Qu’est-ce qu’elle à la minotte ?
 
 # Blanche Marci
- 15 ans !
+ i 15 ans !
 
 # François Marci
- Puis, elle a peut-être envie de rentrer chez elle, poser ses affaires, prendre un bain, tout ça, des trucs qu’on fait quand on a passé 8 heures dans un avion !
+ Puis, elle a peut-être envie de rentrer chez elle, poser ses affaires, prendre un bain, tout ça, des trucs qu’on fait quand on a passé 1 heure dans un train !
 
 # Roland Marci
  Oh une panne d’oreiller ça arrive ! Qu’est-ce que vous avez fait de Lucas ?
@@ -406,13 +413,12 @@ j’ai RDV dans 20 minutes !!
 # Rachel Lévy
  Et c’est pas la peine de revenir ! Je partirais pas d’ici !
 
->  Lorsque Le propriétaire passe devant Roland, celui-ci le rattrape.
+>  Le propriétaire passe devant Roland, il le rattrape.
 
 # Roland Marci
- Oh oh oh ! Qu’est-ce qui se passa là ?! Pourquoi tu me l’as mise dans cet état dis !?
+ Oh oh oh ! Qu’est-ce qui se passe là ?! Qu’est-ce que t’as fait encore !?
 
->  Mais Le propriétaire s’en va sans répondre.
-
+>  Le propriétaire le regarde, s’en va sans répondre.
 
 ## Épisode n°=1
 ### La naissance du Mistral
@@ -422,25 +428,25 @@ j’ai RDV dans 20 minutes !!
 >  Sur la terasse du bar
 
 # Roland Marci
- Essaye pas de me prendre par les sentiments ! Tu devrais avoir honte ! Mettre à la rue une personne de cet âge !
+ Essaye pas de me prendre par les sentiments ! Tu devrais avoir honte ! Mettre à la rue une personne de cet âge ! Tu l’as déjà fait plusieurs fois dans le quartier, espèce de lyonnais !
 
 # Le propriétaire
- Ça fait 2 ans que je lui envoie des lettres ! Je lui avais trouvé un studio à la Belle de Mai elle veut rien savoir !
+ Ça fait 2 ans que je lui envoie des lettres ! Je lui avais trouvé un studio à la Ricamarie mais elle veut rien savoir !
 
 # Roland Marci
- Mais c’est normal, ça fait 60 ans qu’elle vit au Mistral !! Elle sera perdue toute seule dans un autre quartier ! Tu comprends pas ça ?
+ Mais c’est normal, ça fait 60 ans qu’elle vit ici !! Sainté Métropole d'accord, mais elle sera perdue toute seule dans la ville d'à coté ! Tu comprends pas ça ?
 
 # Le propriétaire
- Mais il me le faut cet appartement ! Mon fils depuis qu’il est divorcé il vit chez moi. Il a 37 ans, 2 gosses qui viennent tous les week-ends. On s’engueule tellement qu’on va finir par s’entretuer pour un rond de serviette !
+ Mais il me le faut cet appartement ! Mon fils depuis qu’il est divorcé il vit chez moi et ses 2 gosses viennent tous les week-ends. Il a 37 ans, mais j’ai l’impression d’avoir 3 gosses à la maison, il ne sait rien faire tout seul, et pourtant il est cadre supérieur chez Total. On s’engueule tellement qu’on va finir par s’entretuer !
 
 # Roland Marci
- Mais pourquoi tu l’envoie pas à la Belle de Mai ton fils ?
+ Mais pourquoi tu l’envoie pas à la Ric ton fils ?
 
 # Le propriétaire
  Bah quand même, alors…
 
 # Roland Marci
- Ah ouais… C’est pas assez bien pour lui mais c’est bon pour Rachel c’est ça ? hein ?!
+ Ah ouais… C’est pas assez bien pour lui mais c’est bon pour Rachel c’est ça ? Hein ?! Bah ton fils tu ferais mieux de l’installer au milieu de Lyon tiens !
 
 # Le propriétaire
  Mais il est à moi cet appartement ! Tu peux le comprendre ça quand même non ?
@@ -451,7 +457,7 @@ j’ai RDV dans 20 minutes !!
 >  Roland rentre à l’intérieur du bar. Le propriétaire se lève, laisse la monnaie sur la table et s’en va. Roland sort par la deuxième porte et lui barre la route.
 
 # Roland Marci
- C’est ça, tire-toi ! Tu t’en sortira pas comme ça hein ! J’ai une botte secrete figure toi ! Et on la trouvera la faille dans ton dossier !
+ C’est ça, tire-toi sale lyonnais ! Tu t’en sortira pas comme ça hein ! J’ai une botte secrete figure toi ! Et on la trouvera la faille dans ton dossier !
 
 >  Roland va sur la terrasse pour trouver Malik qui nettoie les tables.
 
@@ -473,18 +479,18 @@ j’ai RDV dans 20 minutes !!
 ## Épisode n°=1
 ### La naissance du Mistral
 #### Séquence 9
-##### A la gare St Charles
+##### A la gare de chateaucreux
 ###### Ninon Chaumette, Le garçon de la photo séquence 6
->
+>Champ contrechamp un peu pété : on voit qu'elle regarde, puis ce qu'on montre c'est genre les crassiers en pas raccord
 
 # Ninon Chaumette
  C’est super !
 
 # Le garçon
- Ah ouais ! C’est beau Marseille hein ?!
+ Ah ouais ! C’est beau Sainté hein ?!
 
 # Ninon Chaumette
- Bon ben salut hein ! Et j’t’appelle dès que j’suis à Paris d’accord ?
+ Bon ben salut hein ! Et j’t’appelle dès que j’suis à Lyon d’accord ?
 
 >  Ninon et le garçon se font la bise pendant que Vincent arrive.
 
@@ -497,7 +503,7 @@ j’ai RDV dans 20 minutes !!
 > Le garçon s’éloigne et Vincent le regarde passer du coin de l’œil.
 
 # Ninon Chaumette
- Hey stress pas ! C’est un musicos que j’ai rencontré dans le train !
+Hey stress pas ! C’est un camarade gilet jaune que j’ai rencontré dans le train !
 
 # Vincent Chaumette
  Ah bon et c’est censé me rassurer ça ?
@@ -514,25 +520,25 @@ j’ai RDV dans 20 minutes !!
  Dis donc t’as un jour d’avance qu’est-ce qui s’est passé ?
 
 # Ninon Chaumette
- Tu me manquais trop ! Non je plaisante hein !! C’est Maman elle était complètement débordée alors j’ai pris un vol plus tôt ! Puis j’ai foncé droit à la gare de Lyon puis voilà !
+ Tu me manquais trop ! Non je plaisante hein !! C’est Maman elle était complètement débordée alors j’ai pris un départ plus tôt ! Puis j’ai foncé droit à la gare de Lapardieu donc voilà !
 
 # Vincent Chaumette
- Beh ouais tu aurais pu le prévenir !
+ Beh ouais tu aurais pu me prévenir !
 
 # Ninon Chaumette
- Bah désolé hein je voulais passer une journée à Paris mais alors vu le temps, il a fait un temps dégueulasse, alors du coupe j’me suis dit la pluie j’aurais bien le temps de la voir et puis…
+ Bah désolé hein je voulais passer une journée à Lyon mais alors vu le temps, il a fait un temps dégueulasse, alors du coup j’me suis dit la pluie j’aurais bien le temps de la voir et puis…
 
 # Vincent Chaumette
- Ca je comprends parce que t’as vu le temps qu’il fait ici !
+ Ça je comprends parce que t’as vu le temps qu’il fait ici !
 
 # Ninon Chaumette
  Pfff… C’est beau !!
 
 # Vincent Chaumette
- Alors ce voyage ?
+ Alors cette classe verte ?
 
 # Ninon Chaumette
- « Ce que d’abord montrent les voyages, c’est notre ordure lancée au visage de l’humanité ! » dit Claude Lévi Strauss !
+"L’obligation faite à l’homme de dominer la nature découle directement de la domination de l’homme sur l’homme." dit Bookchin !
 
 # Vincent Chaumette
  Oh… Ça donne envie d’y aller ça !
@@ -544,37 +550,37 @@ j’ai RDV dans 20 minutes !!
  Et ta mère ça va elle s’acclimate ?
 
 # Ninon Chaumette
- Ecoute si elle téléphone d’abord ou si tu veux de ses nouvelles tu l’appelle. Moi j’veut pas faire l’intermédiaire entre vous !
+ Ecoute si elle téléphone d’abord ou si tu veux de ses nouvelles tu l’appelles. Moi j’veux pas faire l’intermédiaire entre vous !
 
 # Vincent Chaumette
  Pourquoi euh ? Tu crois que pour moi c’est facile ?
 
 # Ninon Chaumette
- Attend, vous m’avez pas demandé mon avis avant de vous séparer ! Alors maintenant vous me laissé en dehors, okay ?
-
+ Attend, vous m’avez pas demandé mon avis avant de vous séparer ! Alors maintenant vous me laissez en dehors, okay ?
 
 ## Épisode n°=1
 ### La naissance du Mistral
 #### Séquence 10
-##### Sur la plage
+##### dans le parc montaud
 ###### Ninon Chaumette, Vincent Chaumette
->  Ninon et Vincent mangent un sandwich sur la page
+>  Ninon et Vincent mangent une rapée au parc Montaud
 
 # Vincent Chaumette
- Oh c’est vraiment pas commode à manger ces trucs-là hein ! Ça prouve que c’est fait pour ceux qui passent leur vie en maillot de bain !
+ Oh c’est vraiment pas commode à manger ces trucs-là hein ! Ça prouve que c’est fait pour ceux qui passent leur vie dans ce trou !
 
 # Ninon Chaumette
- Ah c’est sûr qu’à Paris ça arrive pas souvent hein !
+Ouvre les yeux, pour un trou c'est magnifique !
 
 # Vincent Chaumette
- Alors qu’ici tu vois, tu peux te baigner… de mars à octobre facile ! Tu sais ce qu’ils disent les marseillais ?
+Et puis ici tu vois, tu peux aller à la campagne… Tu sais ce qu’on dit ici ?
 
 # Ninon Chaumette
  Non !
 
- #Vincent Chaumette
- >  avec l’accent marseillais
- Tranquille le matin, pas trop vite le soir ! Bah j’suis bien d’accord avec eux !
+# Vincent Chaumette
+ >  avec l’accent stéphanois
+
+ Fouilla tranquille le matin, pas trop vite le soir ! Bah j’suis bien d’accord !
 
 # Ninon Chaumette
  C’est toi qui dit ça ?! Toi qu’est, qu’est toujours en train de courir partout là, qui malgré ton grand âge…
@@ -587,6 +593,7 @@ j’ai RDV dans 20 minutes !!
 
 # Vincent Chaumette
 >  se tâte le crane
+
 Ah bon ??
 
 # Ninon Chaumette
@@ -596,16 +603,16 @@ Ah bon ??
  Hey on est bien là quand même hein !
 
 # Ninon Chaumette
- Ouais ! C’est clair qu’on est mieux là qu’avec vu sur les quais là, avec les bagnoles de la voiture berge !
+ Ouais ! C’est clair qu’on est mieux là qu’avec vue sur les quais là, avec les bagnoles !
 
 # Vincent Chaumette
  Ah ! Tu vois !
 
 # Ninon Chaumette
- J’vois quoi ? Bon on rentre quand ? Parce que moi il fait encore que je prépare ma rentrée ! Alors sans maman cette année ça va être chaud hein !
+ J’vois quoi ? Bon on rentre quand ? Parce que moi il faut encore que je prépare ma rentrée ! Alors sans maman cette année ça va être chaud hein !
 
 # Vincent Chaumette
- Euh… On verra ! Tu vas voir cette année on va très très bien s’en tirer tout les deux ! Euh… J’espère que t’as pris des cours de cuisine en Afrique parce que moi les surgelés j’en ai…
+ Euh… On verra ! Tu vas voir cette année on va très très bien s’en tirer tout les deux ! Euh… J’espère que t’as pris des cours de cuisine à l'est [autre option : à pétaouchnok] parce que moi les surgelés j’en ai…
 
 # Ninon Chaumette
  Pfff ! Alors là, si tu comptes sur moi pour faire la popote à la maison on est très mal hein !!
@@ -617,10 +624,10 @@ Ah bon ??
  Bon ! On rentre quand ?
 
 # Vincent Chaumette
-On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai repéré 2, 3 boutiques de créateurs marseillais tu vas adorer !
+On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai repéré 2, 3 boutiques de créateurs stéphanois tu vas adorer !
 
 # Ninon Chaumette
- Tu t’intéresses aux jeunes créateurs maintenant ?! Attends tu t’es drogué pendant mon absence ou c’est le soleil qui t’as tapé sur la tête ?
+ Tu t’intéresses aux jeunes créateurs maintenant ?! Attends tu t’es drogué pendant mon absence ou t'es pris une brique sur la tête ?
 
 # Vincent Chaumette
  Et après j’ai une belle surprise pour toi.
@@ -630,51 +637,51 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
 
 ## Épisode n°=1
 ### La naissance du Mistral
-#### Séquence 10
+#### Séquence 11
 ##### Devant chez Rachel
 ###### Blanche et Charlotte frappent aux volets de Rachel pour qu'elle ouvre.
 
 # Blanche Marci
- Rachel !! Soyez raisonnable !! Mais ouvrez ! Il faut qu’on discute ! Ca sert à rien de faire l’autruche !
+ Rachel !! Soyez raisonnable !! Mais ouvrez ! Il faut qu’on discute ! Ça sert à rien de faire l’autruche !
 
 # Rachel Lévy
  Oh ! Je ferais l’autruche si j’veux ! Je suis encore chez moi non ?!?!
 
 # Charlotte Le Bihac
- Ohhh ! Ouvrez nous Rachel ! Vous risquez rien ! Y a que Blanche et moi ! On a quelque chose pour vous !
+ Ohhh ! Ouvrez nous Rachel ! Vous risquez rien ! Y a que Blanche et moi !… On veut discuter politique !
 
->  Charlotte sort une bouteille de Vodka.
+>  Charlotte sort un livre politique et Rachel ouvre la fenêtre.
 
 # Charlotte Le Bihac
  Ah !!
 
 # Rachel Lévy
- C’est mon expulsion que vous voulez fêter ? Allez donne !
+ Vous savez bien que je ne peux pas résister à une bonne discussion politique…
 
->  Rachel prend la bouteille et l’ouvre pour en sentir le contenu. Elle lance un regarde appréciateur à Charlotte.
+>  Rachel prend le livre et l’ouvre pour en sentir le contenu. Elle lance un regarde appréciateur à Charlotte.
 
 # Rachel Lévy
- Hum ! Je vais chercher les verres !
+ Je vais chercher mes lunettes !
 
 >  Elle referme sa fenêtre et ouvre la porte.
 
 # Charlotte Le Bihac
- Tu sais c’est un ami qui me la rapporter de Pologne ! Je la gardais pour une grande occasion !
+ Tu sais c’est un ami qui me l’a rapporté de Pologne ! Je le gardais pour une grande occasion !
 
 # Rachel Lévy
- J’fais la maline comme ça mais… J’peux bien vous le dire à vous ! J’ai la trouille !
+ Je sais plus quoi faire, je suis désespérée…
 
 # Charlotte Le Bihac
  Ooh ! Vous en avez vu d’autres Rachel !
 
 # Rachel Lévy
- Oh justement ! J’crois bien que mon capital endurance est à découvert ! Vous pouvez pas savoir c’qu’on a été heureux dans cet appartement Albert et moi.
+ Oh justement ! J’ai l’impression d’être face au mur.
 
 # Blanche Marci
- Il faut essayer d’oublier le passé Rachel.
+ Il faut penser positif Rachel, j’ai lu ça quelque part…
 
 # Rachel Lévy
- Oui t’as raison ! Pensons au présent ! Alors… L’hospice ? L’armée du salut ?
+ Oui t’as raison ! Pensons positif ! Alors… la guerre ? La crise ?
 
 >  Charlotte glousse.
 
@@ -700,16 +707,16 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
  Tranquillement ?! Quand cet exploiteur menace de m’envoyer les flics ?
 
 # Charlotte Le Bihac
- Mais on les attend les flics !!! Ils trouveront à qui parler !
+ Mais on les attend les flics !!! Ils trouveront à qui parler !… On fera une ZAD s’il le faut !
 
 # Rachel Lévy
- Quitte à déceler les pavés de la cour, ça ça me fait pas peur !
+ Quitte à leur jeter les pavés de Jean Jau, ça ça me fait pas peur !
 
 # Blanche Marci
- C’est pas comme ça qu’on va régler le problème ! Et, vous savez ils font des résidences très bien pour les seniors !
+ C’est pas comme ça qu’on va régler le problème ! On peut toujours trouver une solution pacifique, en discutant… regarde Gandhi !
 
 # Rachel Lévy
- Les seniors… Tu peux pas dire les vieux comme tout le monde ?!! Et puis ta résidence je sais très bien ce que c’est ! Non non ! Maintenant on met des mots jolis partout parce qu’on a peur d’appeler un chat un chat ! Mais… avec moi ça prend pas !
+ Mais c’est faux, Gandhi il n’était pas du tout non-violent comme on te l’a appris ! Ni Mandela d’ailleurs !
 
 >  Rachel rentre chez elle et ferme la porte.
 
@@ -718,10 +725,9 @@ On verra !! On verra ! Mais d’abord, on va faire un tour en ville, j’ai rep�
 
 
 
-
 ## Épisode n°=1
 ### La naissance du Mistral
-#### Séquence 11
+#### Séquence 12
 ##### Hôtel le Select : chambre de Mirta
 ###### Mirta Torres, Roland Marci
 >  Roland fume un cigarette en regardant par la fenêtre quand Mirta entre.
@@ -736,6 +742,7 @@ Oh toi… Je sens qu’tu peux plus te passer de moi !
 
 # Mirta Torres
 > en souriant
+
 hum hum hum !
 
 > Mirta s’approche de lui et l’embrasse.
@@ -750,7 +757,7 @@ hum hum hum !
  Hum, bien sûr bien sûr ! Et c’est Mélanie qui s’en occupe de tes clients pendant que tu fais le joli cœur ?
 
 # Roland Marci
- Non non Mélanie elle rentre demain. Non c’est Malik, toujours en train d’étudier les lois de la république tu parles !!! Même pas capable de protéger Rachel leurs lois !
+ Non non Mélanie elle rentre demain. Non c’est Malik, toujours en train d’étudier les lois de la république tu parles !!! Même pas capable de protéger Rachel, leurs lois !
 
 # Mirta Torres
  Oh ! Mais te ronge pas les sangs ! Elle est pas encore dehors va !
@@ -782,13 +789,13 @@ hum hum hum !
 > Elle veut l’embrasser mais Roland recule.
 
 # Roland Marci
- Non Mirta ! Pourquoi tu veux pas qu’on vivent ensemble ? On va finir tous les deux, comme Rachel, chacun de son côté !
+ Non Mirta ! Pourquoi tu veux pas qu’on vive ensemble ? On va finir tous les deux, comme Rachel, chacun de son côté !
 
 # Mirta Torres
  Tu préfères qu’on devienne un vieux couple ?
 
 # Roland Marci
- Bah pourquoi pas ? Tu m’apporterais mes pantoufles et je te préparerais de la daube et tous les soirs on s’engueulerait pour le programme télé… Oh ça serait bien ça !!!
+ Bah pourquoi pas ? Tu m’apporterais mes pantoufles et je te préparerais des rappés et tous les soirs on s’engueulerait pour le programme télé… Oh ça serait bien ça !!!
 
 # Mirta Torres
  Oh quelle horreur ! Et ça te plairait ?
@@ -796,8 +803,10 @@ hum hum hum !
 # Roland Marci
  Avec toi oui.
 
+> Mirta en gardienne d'immeuble ? proprio d'un immeuble ?)
+
 # Mirta Torres
- Oh  Pfff. Mais non écoute j’ai travaillé toute ma vie pour payer cet hôtel, pour élever Rudy, Il a encore que 17 ans… Je… Il a encore besoin de moi je…
+ Oh  Pfff. Mais non écoute j’ai travaillé toute ma vie pour payer tout ça, pour élever Rudy, Il a encore que 17 ans… Je… Il a encore besoin de moi je…
 
 # Roland Marci
  La vérité c’est que tu m’aimes pas autant que je t’aime !
@@ -812,12 +821,10 @@ hum hum hum !
 
 
 
-
-
 ## Épisode n°=1
 ### La naissance du Mistral
-#### Séquence 12
-##### Sur la place du Mistral
+#### Séquence 13
+##### Parc Montaud
 ###### Ninon Chaumette, Blanche Marci, Charlotte Le Bihac, Rachel Lévy, Vincent Chaumette
 > Vincent et Ninon arrivent les bras chargé de sacs.
 
@@ -827,9 +834,9 @@ hum hum hum !
 >  Ils voient Blanche et Charlotte frapper à la porte de Rachel.
 
 # Blanche Marci
-> en cognant du poing sur la porte)
+> en cognant du poing sur la porte) :
 
-Rachel !! Il a jamais été question d’hospice ! Mais ; vous savez bien qu’on est de votre côté !
+Rachel !! T’avais raison pour Gandhi, j’ai vérifié sur internet ! En effet rien ne se résout pacifiquement… Mais vous savez bien qu’on est là pour vous aider.
 
 # Rachel Lévy
 > de l’autre côté de la porte
@@ -848,16 +855,16 @@ C’est trop tard ! Fichez-moi la paix !
 # Ninon Chaumette
 > qui s’est approché des deux femmes
 
-Il y a un problème j’peux vous aider ?
+C’est vrai ce truc sur Gandhi ?
 
 # Blanche Marci
- C’est notre voisine, elle refuse de sortir de chez elle parce qu’on veut l’expulser ! Et comme elle est âgée on s’inquiète !
+ Ben ouais, c’est notre voisine, qui refuse de sortir de chez elle, qui nous a dit ça… Son proprio veut l’expulser ! Et comme elle est âgée on s’inquiète !
 
 # Rachel Lévy
  J’suis p’tèt vieille mais pas encore sourde !
 
 # Ninon Chaumette
- Bah expulser une vieille dame c’est dégueulasse !
+ Bah expulser quelqu’un c’est dégueulasse !
 
 # Vincent Chaumette
  Bonjour ! Ninon s’il te plait viens ma chérie.
@@ -873,10 +880,9 @@ Tenez bon madame hein ! Vous les aurez !!
  Uh ! Il est mignon écoute !!
 
 
-
 ## Épisode n°=1
 ### La naissance du Mistral
-#### Séquence 13
+#### Séquence 14
 ##### Dans le loft des Chaumette
 ###### Vincent Chaumette, Ninon Chaumette
 
@@ -914,13 +920,13 @@ Tenez bon madame hein ! Vous les aurez !!
  J’suis content que ça te fasse plaisir ! Dire que je tournais autour du pot depuis des heures !
 
 # Ninon Chaumette
- Bah attend, j’suis pas tarer ! Une résidence secondaire comme ça, et à Marseille en plus !! Tous les week-ends au soleil !!
+ Bah attend, j’suis pas taré ! Une résidence secondaire comme ça, et à Saint-Étienne en plus !! Tous les week-ends à la campagne !!
 
 # Vincent Chaumette
  Euh… Non non non ! Une seconde, c’est pas…
 
 # Ninon Chaumette
- Bon d’accord ! Un week-end sur deux si tu veux ! Mais en 3 heures j’vois pas où il est le problème hein !
+ Bon d’accord ! Un week-end sur deux si tu veux ! Mais en 1 heure j’vois pas où il est le problème hein !
 
 # Vincent Chaumette
  Non…
@@ -932,10 +938,10 @@ Tenez bon madame hein ! Vous les aurez !!
  Non c’est pas ça Ninon ! On s’installe ici pour de bon. Avec tout ce qui c’est passé l’année dernière j’voulais qu’on reprenne sur de nouvelles bases.
 
 # Ninon Chaumette
- Tu peux répéter steuplait ?! C’est une blague c’est àa ? Y a une caméra cachée quelque part ?
+ Tu peux répéter steuplait ?! C’est une blague c’est ça ? Y a une caméra cachée quelque part ?
 
 # Vincent Chaumette
- Je sais que c’est un peu brutal mais je supportais plus Paris. Un changement d’air nous fera le plus grand bien à tous les deux. J’ai postulé pour un boulot à la mairie et j’attends la réponse.
+ Je sais que c’est un peu brutal mais je supportais plus Lyon. Un changement d’air nous fera le plus grand bien à tous les deux. J’ai postulé pour un boulot à la mairie et j’attends la réponse.
 
 # Ninon Chaumette
  Mais pourquoi tu m’en a pas parlé ?
@@ -944,30 +950,31 @@ Tenez bon madame hein ! Vous les aurez !!
  Mais c’est ce que je fais là !
 
 # Ninon Chaumette
- Mais avant !! Comme on fait avec les êtres humains ! Pour que j’donne mon avis au moins ! Et mes potes ? Et mes cours de chant ? Et mes émissions de radio au bahuts ?!
+ Mais avant !! Comme on fait avec les êtres humains ! Pour que j’donne mon avis au moins ! Et mes potes ? Et mes cours de chant ? Et mes émissions de radio au bahuts ?! Et mes occupations de ronds points ?
 
 # Vincent Chaumette
  Ah bah le bahut, c’est pas si mal si t’en changes ! T’as passé toute ton année dans les manif’, et ta loupé ton bac !
 
 # Ninon Chaumette
- Mais t’as pas le droit ! Toute ma vie est à Paris moi !
+ Mais t’as pas le droit ! Toute ma vie est à Lyon moi !
 
 # Vincent Chaumette
- Non non mais attends J’ai… j’ai du me décider très très vite et… Et comme t’étais en Afrique…
+ Non non mais attends J’ai… j’ai du me décider très très vite et… Et comme t’étais au Rojava…
 
 # Ninon Chaumette
- Ouais… C’est Maman qui as raison ! T’es vraiment qu’un sale égoïste ! J’vais te dire un truc ! Elle a bien fait de se barrer ! Et tes cadeaux tu sais quoi tu peux les garder ! J’en veut pas !
+ Ouais… C’est Maman qui as raison ! T’es vraiment qu’un sale égoïste ! J’vais te dire un truc ! Elle a bien fait de se barrer ! Et tes cadeaux tu sais quoi tu peux les garder ! J’en veux pas !
 
 # Vincent Chaumette
  Non Ninon ! Attend il faut qu’on parle !
 
 # Ninon Chaumette
- Tu m’as tout dit ! Et si tu crois que je vais rester ici… Ha ha ! Tu te fourre le doigt dans l’œil jusqu’au coude ! J’préfèrerais encore vivre avec maman dans la brousse !!
+ Tu m’as tout dit ! Et si tu crois que je vais rester ici… Ha ha ! Tu te fourre le doigt dans l’œil jusqu’au coude ! J’préfèrerais encore vivre avec maman en mode écologie sociale !!
 
 # Vincent Chaumette
  Ninooon !! Ninon !!
 
->  Ninon cours dehors et claque la porte. En colère, Vincent donne un coup de pieds dans un carton… de vaisselle.
+>  Ninon cours dehors et claque la porte. En colère, Vincent donne un coup de pieds dans un carton… de vaisselle
+>  [design, ou un carton de vélos car plus tard il fera les véliverts].
 
 # Vincent Chaumette
  Merde !
@@ -975,7 +982,7 @@ Tenez bon madame hein ! Vous les aurez !!
 
 ## Épisode n°=1
 ### La naissance du Mistral
-#### Séquence 14
+#### Séquence 15
 ##### Sur la place du Mistral
 ###### Ninon Chaumette, Lucas Marci, Rudy Torres, Vincent Chaumette
 >  Ninon traverse la place en courant, son père sur les talons. Elle se retrouve dans le champ de vision de la caméra de Lucas qui filme.
@@ -987,5 +994,6 @@ Regarde comment elle accroche aux lumières !
 
 # Vincent Chaumette
  Ninon !! Ninon ?
+
 
 

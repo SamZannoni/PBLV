@@ -1,4 +1,3 @@
-
 ## Épisode n°=3
 ### François endetté
 #### Séquence 1
@@ -9,6 +8,7 @@
 # Blanche Marci
 Rachel !... Elle respire.. Rachel ?
 >  à François
+
 Mais reste pas planté là !!! Appelle une ambulance !!
 
 # Malik Nassri
@@ -22,19 +22,19 @@ Mais laisse la respirer ! Rachel ?
 
 # François Marci
 >  Au téléphone
+
 AH quand même, faut pas être pressé de mourir avec vous ! Cours du Mistral au fond à gauche ! Ben BIEN SÛR que c'est pour une urgence !!!
 
 # Malik Nassri
 Ah ! Je crois qu'elle bouge.
 
 
-
 ## Épisode n°=3
 ### François endetté
 #### Séquence 2
-##### Plage de la pointe rouge
+##### Plage
 ###### Ninon Chaumette, Rudy Torres, une vagabonde endormie
->  Les deux ados sortent de soirée au Charli's
+>  Les deux ados sortent de soirée au Bull
 
 
 # Rudy Torres
@@ -56,7 +56,7 @@ Ah ça m'étonne pas hein, vu comme tu danses..
 T'es plutôt du genre démonstratif sur la piste
 
 # Rudy Torres
-Bah tout le monde peut pas s'la jouer à la petite Parisienne
+Bah tout le monde peut pas s'la jouer à la petite Lyonnaise
 
 # Ninon Chaumette
 C'est moi qui danse comme ça ?
@@ -64,6 +64,7 @@ C'est moi qui danse comme ça ?
 # Rudy Torres
 Grave
 >  Il se rapproche d'elle en dansant mais y finit un peu gêné
+
 Et maintenant, qu'est ce que tu vas faire ?
 
 # Ninon Chaumette
@@ -73,10 +74,11 @@ Dormir
 Faudrait ptet appeller ton père non histoire de le rassurer
 
 # Ninon Chaumette
-Non. Plus de père, plus de maison, plus d'affaires puisque dtoutefaçon j'ai plus, jme suis faite voler mon sac.
->  Elle allume une douche de plage et s'éloigne
+Non. Plus de père, plus de maison, plus d'affaires puisque d'toutefaçon j'ai plus rien, jme suis faite voler mon sac.
+>  Elle allume une fontaine de parc et s'éloigne
+
 ...Houh ! Bref je suis une femme... Libre !
->  Elle s'approche d'une vagabonde qui dort sur une chaise de plage et pose ses chaussures sur son chariot.
+>  Elle s'approche d'une vagabonde qui dort sur un banc et pose ses chaussures sur son chariot.
 
 # Rudy Torres
 Tain j'hallucine tu vas pas lui filer tes pompes ?
@@ -85,7 +87,7 @@ Tain j'hallucine tu vas pas lui filer tes pompes ?
 Si, pourquoi pas ? La vie c'est le partage mon vieux.
 
 # Rudy Torres
-Ah mais d'accord mais il pourra jamais les mettre.
+Ah mais d'accord mais elle pourra jamais les mettre.
 
 # Ninon Chaumette
 C'est vrai t'as raison. Les tiennes iraient beaucoup mieux.
@@ -97,6 +99,8 @@ Ouais, mais les miennes elles sont à moi et j'les garde quoi
 Pff... Tout a fait la mentalité de mon père ça...
 
 >  La vagabonde se réveille au milieu d'elleux
+
+
 # La vagabonde
 RooOh quoi on peut même pu pioncer ?!
 
@@ -106,8 +110,7 @@ Okay ! Tenez madame
 # Ninon Chaumette
 Comme ça vous avez le choix
 
->  Les deux ados se tiennent la main et trottinnent vers la mer
-
+>  Les deux ados se tiennent la main et s'éloignent en trottinnant
 
 
 ## Épisode n°=3
@@ -117,10 +120,10 @@ Comme ça vous avez le choix
 ###### Mirta Torres, Rachel Lévy, Roland Marci, Infirmiére
 
 # Mirta Torres
-Rachel Buvez un peu de thé.. Manger du croissant !
+Rachel Buvez un peu de thé.. Mangez un croissant [ou bien une part de camembert]
 
 # Rachel Lévy
-Non merci, Mirta, tout ce que je veux c'est rentrer dans ma maison.
+Non merci, Mirta, tout ce que je veux c'est rentrer chez moi et être bien.
 >  Elle essaye de débrancher le catheter mais Roland l'en empêche
 
 # Mirta Torres
@@ -136,17 +139,20 @@ Parce que vous avez eu un malaise cardiaque.
 Tu crois que le propriétaire est en train de vider ma maison ? Que mes meubles sont étalés sur le trottoir, que...
 
 # Roland Marci
-Une seule personne touche une seule de tes affaires, il sort pas vivant du Mistral. Parole.
+Une seule personne touche une seule de tes affaires, il sort pas vivant de Sainté. Parole.
 
 
 # Infirmiére
 >  Entre
+
 Alors madame Levy, on reprend des forces mais on n'a pas touché à son petit déjeuner
 
 # Rachel Lévy
-et non, le thé était pas assez le froid et les croissants pas assez durs.
+[Euh déjà on va se calmer sur le "on", ] et non, le thé était pas assez le froid et les croissants pas assez durs.
 
 >  elle baragouine quelque chose à Mirta sur la façon qu'a l'infirmière de lui parler
+
+Elle a interet a arreter de me parler comme........
 
 # Roland Marci
 ça va comment ? Elle a l'air faible
@@ -165,7 +171,7 @@ C'est grave ?
 Je peux avoir le journal avec le petit déjeuner ?
 
 # Mirta Torres
-Rachel, c'est un hôpital, pas un hôtel. Faites un effort, ils font un travail très difficile vous savez.
+Rachel, c'est un hôpital, pas un hôtel. Faites un effort, ils font un travail très difficile et très mal payé vous savez.
 
 # Rachel Lévy
 Je sais, c'est pour ça que j'fais un effort pour être gentille.
@@ -174,10 +180,10 @@ Je sais, c'est pour ça que j'fais un effort pour être gentille.
 Je vais appeler François et Blanche
 
 # Rachel Lévy
-Mais non, tu vas le déranger.
+Mais non, tu vas les déranger.
 
 # Roland Marci
-Je ne fait pas les déranger, je vais les rassurer,
+Je ne vais pas les déranger, je vais les rassurer,
 
 # Rachel Lévy
 quitte à les déranger, tu pourras m'les passer
@@ -188,10 +194,11 @@ quitte à les déranger, tu pourras m'les passer
 #### Séquence 4
 ##### Appartement des Marci
 ###### Lucas Marci, Blanche Marci, Johanna Marci, François Marci
+
+
 >  Lucas rejoint Johanna et Blanche qui petit déjeunent
 
 # Lucas Marci
-C'est qui le psychopathe qui a appellé  cette heure là
 Oh dégueu...
 
 # Johanna Marci
@@ -207,7 +214,7 @@ J'viens d'avoir Rachel, on est déjà chargé d'aller remonter ses horloges et r
 Elle va beaucoup mieux alors ?
 
 # Johanna Marci
-Euh... Au fait, vous avez réfléchi pour ma tenue de patinage artistique ? Non, parce que pars en sport étude dans une semaine et je ne vais pas y aller avec costume de p'tite sirène hein j'vais avoir la honte
+Euh... Au fait, vous avez réfléchi pour ma tenue de patinage artistique ? Non, parce que je pars en sport étude dans une semaine et je ne vais pas y aller avec costume de p'tite sirène hein j'vais avoir la honte
 
 # François Marci
 T'as choisi quel modèle déjà ?
@@ -218,7 +225,7 @@ Mais ça fait 100 fois que je vous le dis. C'est une Nosferata. La reine de la n
 >  rires de la famille
 
 # Lucas Marci
-Nosfrataa! Wouuh ! Le zombie du patinage artistique ! Buuh
+Nosferataa! Wouuh ! Le zombie du patinage artistique ! Buuh
 
 
 # Johanna Marci
@@ -239,16 +246,16 @@ Ah d'accord ça m'arrange parce que j'ai une journée...
 T'es sur que tout va bien ? J'te trouve préoccupé depuis qu'on est rentrés. T'as pas de problèmes au boulot ?
 
 # François Marci
-Aucun... Les bateaux avancent, ils seront bientot mis à l'eau...
+Aucun... Les pièces mécaniques avancent, elles seront bientôt livrés en Allemagne ...
 
 # Blanche Marci
-Et ils feront le tour du monde parce qu'ils auront été conçus par le meilleur ingénieur de la planète ?
+Et iront sur les meilleures voitures parce qu'elles auront été conçus par le meilleur ingénieur de la planète ?
 
 # François Marci
 Exact ma chérie... Exact. Ah ! ça, c'est pour moi !
 >  Il va répondre au téléphone qui sonnait
-Allô ? Oui, monsieur Martineau, comment allez vous ? Mais j'allais vous appeler.
 
+Allô ? Oui, monsieur Martineau, comment allez vous ? Mais j'allais vous appeler.
 
 ## Épisode n°=3
 ### François endetté
@@ -270,13 +277,14 @@ Bonjour. Un perroquet léger.
 
 # Malik Nassri
 >  En repartant
+
 Perroquet léger
 
 # Céline Frémont
 Qu'est ce qui vous arrive ?
 
 # Vincent Chaumette
-Ma fille a fait une fugue. L'idée de s'installer à Marseille ne lui a pas plu et ça fait deux jours que je n'ai pas de nouvelles.
+Ma fille a fait une fugue. L'idée de s'installer à Saint Etienne ne lui a pas plu et ça fait deux jours que je n'ai pas de nouvelles.
 
 # Céline Frémont
 Quel âge a l'air votre fille ? 17 ans, c'est ça ?
@@ -299,9 +307,11 @@ Vous savez ce que je crois ? Je crois qu'elle vous met à l'épreuve. Elle a bes
 
 
 >  Elle sort un portable
+
 L'adjoint Piquemal pour Céline Frémont
 >  à Vincent
-C'est pour votre fille que vous allez faire
+
+C'est pour votre fille que vous allez le faire
 
 ## Épisode n°=3
 ### François endetté
@@ -310,8 +320,8 @@ C'est pour votre fille que vous allez faire
 ###### Rudy Torres, Ninon Chaumette
 
 # Ninon Chaumette
-Salut. C'est beau ici hein. Ma mère est en Afrique, mon père est à Marseille et moi... Je sais plus où j'en suis là.
-Si au moins il m'avait expliqué tu vois s'il m'avait dit "Ninon est ce que tu veux bien venir vivre à Marseille ?".. Il me déplace comme un objet. Si maman avait étée là au moins, ça aurait été différent tu vois.
+Salut. C'est beau ici hein. Ma mère est au Rojava, mon père est à Sainté et moi... Je sais plus où j'en suis là.
+Si au moins il m'avait expliqué tu vois s'il m'avait dit "Ninon est ce que tu veux bien venir vivre à Saint Etienne ?".. Il me déplace comme un objet. Si maman avait étée là au moins, ça aurait été différent tu vois.
 Franchement, il aurait fait ça ton père toi ?
 
 # Rudy Torres
@@ -330,12 +340,12 @@ Non moi tu sais, j'suis un mec libre moi.. Sans attaches.
 Excuse moi... J'ai cru que...
 
 # Ninon Chaumette
-Ecoute Rudy... T'as vraiment été vraiment génial. Mais maintenant tu vois on va chacun reprendre le cours de notre vie. Moi j'vais rentrer à Paris en stop. J'vais trouver des copains pour m'héberger
+Ecoute Rudy... T'as vraiment été vraiment génial. Mais maintenant tu vois on va chacun reprendre le cours de notre vie. Moi j'vais rentrer à Lyon en stop. J'vais trouver des copains pour m'héberger
 
 # Rudy Torres
-Mais t'as pas un rond ! T'as même plus de pompes ! T'va pas rentrer à Paris sans pompes ?
+Mais t'as pas un rond ! T'as même plus de pompes ! T'va pas rentrer à Lyon sans pompes ?
 
-# Rudy Torres
+
 Si tu veux je t'invite chez moi, mais alors je te préviens hein, copain copine, n'essaye pas de me sauter dessus hein ! Tu te pose, tu passe deux trois coups de fils, et avec ça, tu pourras meme prendre une douche si tu veux ! Et j'regarderais pas dans le trou d'la serrure, promis juré.
 
 
@@ -352,22 +362,24 @@ Désolé de vous recevoir pendant ma pause Je devais vous voir au plus vite. Il 
 Alors j'ai pensé comme je vais toucher une grosse prime de fin d'année, on pourrait mettre en place un nouveau crédit pour faire face aux frais.
 
 # Le Banquier
-Ça monsieur Marci, c'est impossible. Je dois rendre des comptes moi aussi. On a deux échéances de 1 000 € qui arrivent et votre découvert déjà de 8 000...
+Ça monsieur Marci, c'est impossible. Je dois rendre des comptes moi aussi. On a deux échéances de 1 000 € qui arrivent et votre découvert est déjà de 8 000...
 
 # François Marci
 Je sais je sais
 
 # Le Banquier
-Je me suis penché sur les mouvements de votre compte. Vous êtes parti en vacances au Canada, je crois.
+Je me suis penché sur les mouvements de votre compte. Vous êtes parti en vacances en haute Loire, je crois.
 
 # François Marci
 Oui, enfin non, non, c'était pour le concours de patinage artistique de ma fille. Après, qu'est ce que vous voulez ? On etait au bout du monde. On s'est fait un peu plaisir.
 
 # Le Banquier
 Ouais, je comprends. Mais avant, il y avait eu vos petits frais de printemps.
+Mais ne vous inquiétez pas, on a toujours une solution.
+Elle est même sous vos yeux. Tous les jours. Le café de votre père, Vous êtes propriétaire des murs ?
 
-# François Marci
-Mais ne vous inquiétez pas, on a toujours une solution. Elle est même sous vos yeux. Tous les jours. Le café de votre père, Vous êtes propriétaire des murs ? Oui, ça ne veut pas dire grand chose
+#François Marci
+Oui, ça ne veut pas dire grand chose
 
 # Le Banquier
 Ah si, ça change tout. Vous auriez pu hypothéquer, mais ce n'est pas suffisant. La seule solution, c'est de vendre.
@@ -377,9 +389,9 @@ Vous voulez que je vende le café de mon père ?
 
 # Le Banquier
 Les murs seulement, en gardant le fond, votre père pourra continuer son activité.
-Il vous faut des liquidités, Monsieur Marci, sinon vous allez tout droit à la saisie sur salaire. Vous êtes mariés sous le régime de la communauté des biens ? Alors cela concernera aussi madame. Il faut nous comprendre, Monsieur Marci, vous vous êtes allés beaucoup trop loin. On ne peut plus vous suivre.
+Il vous faut des liquidités, Monsieur Marci, sinon vous allez tout droit à la saisie sur salaire.
+Vous êtes mariés sous le régime de la communauté des biens ? Alors cela concernera aussi madame. Il faut nous comprendre, Monsieur Marci, vous vous êtes allés beaucoup trop loin. On ne peut plus vous suivre.
 Merci M. Marci. Bonsoir.
-
 
 
 ## Épisode n°=3
@@ -390,19 +402,19 @@ Merci M. Marci. Bonsoir.
 
 
 # L'adjoint
-Nous avons un grand dessein pour notre ville. Il ne s'agit pas de construire des immeubles ou des terrains de sport, il s'agit de construire un état d'esprit. Marseille a besoin d'un architecte pour entrer dans le troisième millénaire. Alors, dans un premier temps, votre mission consistera à rénover le parc d'abribus. C'est notre projet prioritaire.
+Nous avons un grand dessein pour notre ville. Il ne s'agit pas de construire des immeubles ou des terrains de sport, il s'agit de construire un état d'esprit. Saint Etienne a besoin d'un architecte pour entrer dans le troisième millénaire. Alors, dans un premier temps, votre mission consistera à rénover le parc de vélos libre service. C'est notre projet prioritaire.
 
 # Vincent Chaumette
-Bon bé c'est très bien. Je m'occupe des abribus, c'est tout. Il y a autre chose.
+Bon bé c'est très bien. Je m'occupe des vélos, c'est tout. Il y a autre chose ?
 
 # L'adjoint
 Nous aurons un slogan, Céline, le slogan :
 
 # Céline Frémont
-Il y a une vie sous l'abribus.
+Vélivert, la révolution électrique !
 
 # L'adjoint
-Oui, une vie sous l'abribus. Percutant non ? et en même temps, ça reflète un concept beaucoup plus vaste.
+Oui, la révolution. Percutant non ? et en même temps, ça reflète un concept beaucoup plus vaste.
 
 # Vincent Chaumette
 Excusez moi, on peut pas accélérer parce que j'en peux plus là.
@@ -465,7 +477,7 @@ Bon écoute Lucas. Tu as encore un mois de vacances ? Alors ce serait bien que t
 Quoi ?
 
 # François Marci
-Spielberg a travaillé trois mois, trois mois, trois ans dans une station service pour se payer ses études.
+Spielberg a travaillé trois mois, trois mois! dans une station service pour se payer ses études.
 
 # Lucas Marci
 Ah non alors ça je suis désolé, je..
@@ -473,7 +485,6 @@ Ah non alors ça je suis désolé, je..
 # François Marci
 Il aurais pu ! C'est bien son genre.
 Et puis j'aimerais bien que dans cette famille, les relations soit un peu moins monétaire.
-
 
 ## Épisode n°=3
 ### François endetté
@@ -502,7 +513,7 @@ Attends qu'est ce que tu crois, jamais avec une fille du voisin c'est surtout ç
 Et lui c'est qui ?
 
 # Rudy Torres
-Ah lui c'est Roland c'est le patron du baragouine
+Ah lui c'est Roland c'est le patron du bar
 
 # Ninon Chaumette
 Ah ouais d'accord
@@ -514,7 +525,7 @@ Roland ! Dépêche toi, j'aime pas laisser mon hôtel trop longtemps
 T'as raison des fois qu'il y ait un client.
 
 # Mirta Torres
-J'ai rendez vous avec un représentant pour faire installer la télévision par satellite. Quelle mouche a piqué cet après midi pour être aussi désagréable ?
+J'ai rendez vous avec un représentant Fouilla pour faire installer internet par antenne radio. Quelle mouche t'a piqué cet après midi pour être aussi désagréable ?
 
 # Roland Marci
 C'est Rachel, je ne supporte pas de la voir comme ça
@@ -530,16 +541,14 @@ Sinon, il va avoir des crises de nerfs à l'hôpital
 
 # Roland Marci
 et des démissions en cascades.
-
-# Roland Marci
-Si elle pat en maison de retraite elle tiendra pas un mois, et le Mistral sans Rachel ce sera plus le Mistral
+Si elle part en maison de retraite elle tiendra pas un mois, et Sainté sans Rachel ce sera plus Sainté
 ... Dur de vieillir seul...
 
 # Ninon Chaumette
 Dis donc ils ont l'air proches hein.
 
 # Rudy Torres
-Ils viennent de se rende compte il y a deux mois qu'ils étaient amoureux depuis toujours ensemble.
+Ils viennent de se rende compte il y a deux mois qu'ils étaient amoureux depuis toujours.
 C'est pour ça, Enfin. Mais par contre, motus hein parce que personne est au courant.
 
 # Mirta Torres
@@ -553,17 +562,18 @@ Mmh ? Toutes les femmes du quartier meurent d'amour pour moi
 Mais une seule à ta préférence. Et ce soir, elle espère bien une petite visite.
 
 # Roland Marci
-Ça dépend. Ton satellite : Il capte les chaines de foot ?
+Ça dépend. Ton internet : Il capte les chaines de foot ?
 ... 21h..?
 
 # Mirta Torres
-Tu passe pas la sortie de secours hein.
+Tu passe par la sortie de secours hein.
 
 # Roland Marci
 >  Fredonnant
+
 Comme d'habitude
 
->  Iels retournent à leurs moutons
+>  Iels retournent à leurs moutons, Roland retourne à son bar et s'adresse à un client
 # Roland Marci
 ça va jean ?
 
@@ -575,12 +585,11 @@ Comme d'habitude
 ###### Ninon Chaumette, Rudy Torres, Aicha Djellal
 >  Aicha fait le ménage, Rudy et Ninon essayent de passer discrétos
 
-#Aicha Djellal
+# Aicha Djellal
 Rudy c'est toi ?
 
 # Rudy Torres
 Oui, oui Aicha c'est moi ouais !
-
 
 
 ## Épisode n°=3
@@ -642,7 +651,6 @@ C'est seulement que... je vais toucher une grosse prime de fin d'année. Alors e
 
 >  Il essaye de lui faire une bise, elle se barre.
 
-
 ## Épisode n°=3
 ### François endetté
 #### Séquence 14
@@ -698,14 +706,14 @@ C'est moi les papiers à finir ? Je veux des sentiments Mirta. Je t'aime
 Roland.
 
 # Roland Marci
-Je veux que tout le monde soit au courant : Roland est amoureux de Mirta
-Roland veut épouser Mirta
+Je veux q
 
 # Mirta Torres
 Roland !
 
 # Roland Marci
 >  Il ouvre la porte et le dis dans l'escalier
+
 Mirta. Je veux vivre avec toi
 
 # Mirta Torres
@@ -726,5 +734,3 @@ Et bien ça marche pas avec moi, ça, si notre relation ne te convient pas.
 # Roland Marci
 Tu as conscience de ce que ça signifie. Je reviendrais plus. Plus jamais. Si je passe cette porte, c'est pour toujours. Définitif.
 >  Il la passe.
-
-

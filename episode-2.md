@@ -6,7 +6,7 @@
 
 00:01:01:24 - 00:01:49:20
 # Ninon
-Eh mon sac ! Ah ouais, d'accord. Jvais me tirer d'ici vite fait moi.
+Eh mon sac! Ah ouais d’accord, mes potes de Lyon m’avaient bien prévenue !
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -56,7 +56,7 @@ Et alors ? A l'âge de Rachel On ne compte plus les années.
 Oui, mais là, c'est le temps légal,
 
 # Roland
-Le temps amical qu'est ce vous en faites à la fac, hein ? Parce que Rachel, si on l'expulse, ça va lui faire le même effet que quand on a évacué le vieux port en 43
+Le temps amical qu'est ce vous en faites à la fac, hein ? Parce que Rachel, si on l'expulse, ça va lui faire un bon gros choc comme toutes les dernières élections présidentielles.
 
 # Vincent
 s'il vous plaît. Un double café très, très serré,
@@ -71,7 +71,7 @@ C'est à cause de ma fille. J'ai plus de nouvelles depuis hier soir.
 Ah bon, quel âge elle a ?
 
 # Vincent
-e 17 ans
+(17 ans
 
 # Roland
 Oh, Vous en faites pas trop. À cet âge, on est tellement insouciants, hein ? Et puis faudra vous habituer
@@ -101,12 +101,15 @@ J'ai entendu, j'écoute
 Bah t'es pas encore parti?
 
 # François
-Non, non, non, J'avais un coup de fil à passer. Un fournisseur. Les peintures antirouille qui nous ont livré au chantier sont périmées. Ces salauds ont profité que j'étais en vacances. 200 litres a foutre à la poubelle si je ne m'en étais pas rendu compte, on perdait 3 000 €.
+Non, non, non, J'avais un coup de fil à passer. Un fournisseur. Les peintures antirouille qui nous ont livré au chantier sont périmées. Ces salauds ont profité que j'étais en vacances. 200 litres a foutre à la poubelle si je ne m'en étais pas rendu compte, on perdait 3 000 €.
 (le téléphone sonne)
 Allô ? Oui, bonjour. Non, non, elle est là je vous la passe. Ta directrice...
 
 # Blanche
-Allô Michèle ? Alors et tes vacances. Oh, faut que je te raconte le Canada ! On s'est régalé. Quoi ? Reprendre la classe de Sylvie ? Mais t'es dur là, c'est un CM1 J'ai préparé le CP, moi. Ah, elle est en dépression. Bon, remarque, ça n'étonne pas un seul avec trois enfants et sans poste fixe. Qu'est ce qu'ils attendent aussi au rectorat pour la titulariser ? Bon, allez, on ne va pas baisser les bras dès le premier jour. Je vais y penser. D'accord, je te rappelle. La rentrée commence mal. Attends toi à ce que je te fasse la gueule.
+Allô Michèle ? Alors et tes vacances. Oh, faut que je te raconte la haute Loire ! On s'est régalé. Quoi ? Reprendre la classe de Sylvie ?
+Mais t'es dur là, c'est un CM1 J'ai préparé le CP, moi. Ah, elle est en dépression. Bon, remarque, ça n'étonne pas, seule avec trois enfants et sans poste fixe.
+Qu'est ce qu'ils attendent aussi au rectorat pour la titulariser ? Bon, allez, on ne va pas baisser les bras dès le premier jour. Je vais y penser. D'accord, je te rappelle. La rentrée commence mal.
+Attends toi à ce que je te fasse la gueule.
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -118,25 +121,28 @@ Allô Michèle ? Alors et tes vacances. Oh, faut que je te raconte le Canada ! O
 Merci.
 
 # Roland
-Elle va revenir votre fille, elle est allée faire la fête toute la nuit. Marseille maintenant c'est une ville branchée et les boîtes de nuit restent ouvertes jusqu'à 8 h du matin. Les afters ils appellent ça. J'en sais quelque chose parce qu'ils offrent le petit déjeuner, alors ils me font concurrence.
+Elle va revenir votre fille, elle est allée faire la fête toute la nuit. Sainté c’est une ville
+qui bouge maintenant, pleins de nouveaux lieux ouvrent. Et puis il y a des afters
+dans des colloques un peu partout, alors ils me font concurrence…
 
 # Vincent
-Remarquez, ce serait bien son style d'aller danser toute la nuit sans me prévenir. Elle en a toujours fait qu'à sa tête cette gamine mais bon, je pense plutôt qu'elle a fugué parce qu'on s'est disputés, elle connaît pas du tout Marseille. Elle arrive tout juste de Paris.
+Remarquez, ce serait bien son style d'aller danser toute la nuit sans me prévenir. Elle en a toujours fait qu'à sa tête cette gamine mais bon, je pense plutôt qu'elle a fugué parce qu'on s'est disputés, elle connaît pas du tout Saint Etienne. Elle arrive tout juste de Lyon.
 
 # Roland
-Essayez de pas trop vous en faire. à cet âge là les fugues, ça dure deux jours. Et puis après ? Parce que vous savez, au bout de deux jours, on commence à manquer de ravitaillement. Tenez, Moi, mon fils, lui, il tenait qu'une journée avec de l'argent de poche. C'est vrai que c'est un dépensier.
+Essayez de pas trop vous en faire. à cet âge là les fugues, ça dure deux jours. Et puis après ? Parce que vous savez, au bout de deux jours, on commence à manquer de ravitaillement. Quoi que.. Mon fils il tenait
+bien 3 semaines avec les cantines et la récup’.
 
 # Malik
-Si elle est majeure, vous pouvez rien faire, sinon allez à la police.
+Si elle est majeure, vous pouvez rien faire, sinon la police, mais bon..
 
 # Vincent
-J'étais sur le point d'y aller. Elle ressemble beaucoup à Laurence, ma femme enfin mon ex. (il montre une photo) On sait jamais si elle revient par ici. Enfin si elle n'est pas totalement perdue parce que cette ville est un vrai labyrinthe.
+J'étais sur le point d'y aller. Elle ressemble beaucoup à Laurence, ma femme enfin mon ex. (il montre une photo) On sait jamais si elle revient par ici. Enfin elle ne sera pas totalement perdue, il suffit qu’elle retrouve la rue des trams.
 
 # Roland
-Oh mais à Marseille, un Parisien, il ne va pas se perdre parce qu'en général il repart tout de suite. Et quand il demande à la direction de la gare, on lui répond illico. En fait, vous avez essayé à la gare ?
+Oh mais à Sainté, un Lyonnais, il ne va pas se perdre parce qu'en général il repart tout de suite. Et quand il demande à la direction de la gare, on lui répond illico. En fait, vous avez essayé à la gare ?
 
 # Vincent
-Oui oui, je l'ai ratissée de long en large pendant des heures. Ecoutez, je vous laisse ma carte, on sait jamais si elle repasse par là. Vous me passez un coup de fil.
+Oui oui, je les ai ratissées toutes! Ça m’a pris des heures pour faire les 4 gares ! Ecoutez, je vous laisse ma carte, on sait jamais si elle repasse par là. Vous me passez un coup de fil.
 
 # Roland
 Oui, d'accord,
@@ -145,17 +151,17 @@ Oui, d'accord,
 merci.
 
 # Roland
-Pas de souci. Cabinet Vincent Chaumette. Architecture, consulting, intégration urbaine, valorisation de la lumière. Oh ben dis donc, si avec tout ça il retrouve pas sa fille,
+Pas de souci. Cabinet Vincent Chaumette. Architecture, Consulting design, valorisation des mobiliers anti-sdf, intégration de vidéosurveillances urbaine. Oh ben dis donc, si avec tout ça il retrouve pas sa fille,
 
 # Malik
 ça fait classe quand même.
 
 00:07:30:06 - 00:07:52:09
 # Roland
-Quand tu seras avocat, quand tu aura eu ton diplôme sur ta carte, tu vas pouvoir mettre "cabinet Malik Nasri, avocat, consulting, intégration quartier..."
+Quand tu seras avocat, quand tu aura eu ton diplôme sur ta carte, tu vas pouvoir mettre "cabinet Malik Nasri, avocat, consulting, intégration surveillance quartier..."
 
 # Malik
-"valorisation maghrébine"
+"Et avocat du maire  !"
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -171,7 +177,7 @@ Oh merci Aicha ! C'était pas la peine de te dépêcher, elle a toujours pas ouv
 Ah non faut jamais renoncer. Tu sais à l'hôpital quand une personne âgée refusait de sortir de sa chambre,  c'était un premier signe de déprime.
 
 # Mirta
-Rachel, La dépression ? plutôt de la rébellion, oui.
+Rachel, La dépression ? Remarque, tout le monde est en depression aujourd’hui.
 
 # Aicha
 quand elle sortira, je lui ferais une petite visite médicale.
@@ -180,7 +186,7 @@ quand elle sortira, je lui ferais une petite visite médicale.
 Oh toi il te tarde de devenir infirmière hein ?
 
 # Aicha
-Oui, c'est vrai, j'aime mon métier. J'espère que je vais trouver un poste en plus vous manquez d'infirmière ici.
+Oui, c'est vrai, j'aime mon métier. J'espère que je vais trouver, en plus vous manquez d'infirmière ici, Mais bon c’est pas comme si on ouvrait des postes !
 
 # Mirta
 Déterminée comme tu es, t'auras aucun problème à en trouver un. Et puis je suis ravie pour toi, tu vas pas passer ta vie à briquer le Select.
@@ -192,13 +198,13 @@ Non non je suis très heureuse chez toi, tu sais jamais j'oublierai ton hospital
 C'est pas de l'hospitalité c'est un service que je me rends. Depuis que tu es là, toutes les poignées fonctionnent et ma cuisine brille.
 
 # Aicha
-Kestuveu ça me plaît, moi. Et dès que je me bouge de la tête, ça me vide la tête.
+Qu'est ce tu veu ça me plaît, moi. Dès que je me bouge ça me vide la tête.
 
 # Mirta
 Pauvre petite, t'en a déjà tellement vu !
 
 # Aicha
-Allez, c'est fini tout ça maintenant, j'ai la vie devant moi, je peux danser, je peux rire sans avoir personne sur le dos et pas de voile sur la tête, tu vois.
+Allez, c'est fini tout ça maintenant, j'ai la vie devant moi, je peux danser, je peux rire sans avoir personne sur le dos.
 
 # Mirta
 Allez
@@ -227,7 +233,7 @@ Keuf
 mademoiselle, votre billet s'il vous plaît, mademoiselle.
 
 Ninon
-Euh, merde mon sac, je crois que je l'ai oublié au café je reviens tout de suite !
+Euh, merde mon sac, je crois que je l'ai oublié au stade je reviens tout de suite !
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -280,13 +286,13 @@ Gras ? mais c'est la recette de ma mère. Y'a rien que des bonnes choses là ded
 Ce soir, tu voudrais me faire croire un paradoxe andalou ?
 
 # Mirta
-Rachel. Vous allez pas mangé que des conserves. Si vous voulez vivre 100 ans il faut manger des fruits et des légumes, c'est plein de vitamines.
+Rachel. Vous allez pas mangé que des conserves. Si vous voulez vivre 100 ans il faut manger des fruits et des légumes, c'est plein de vitamines Et de fibres pour un bon transit intestinal
 
 # Roland
 C'est le paradoxe andalou et maintenant le régime crétois.
 
 # Rachel qui ouvre sa fenêtre
-Cinq fruits et cinq légumes par jour : Ils l'ont dit à la télé.
+Cinq fruits et cinq légumes par jour : Ils l'ont dit à la télé, Mais ça coûte cher surtout quand c’est BIO.
 
 # Roland
 Attends, tu vois bien qu'il y a pas la police, il y a que nous.
@@ -296,24 +302,25 @@ La police elle est partout maintenant. il y a des caméras cachées dans les rue
 
 # Roland
 C'est pas pour nous surveiller, c'est pour la sécurité.
+> [INTERVENTION MILITANTE]
 
 # Rachel
-pas celle des personnes âgées qui se font expulser.
+Tu dis n’importe quoi Roland
 
 # Roland
 Allez, tu vas pas nous faire une manif,
 
 # Rachel
-Si si je vais faire une manif, je vais me battre et je serai là, recalculée de mon droit au logement.
+t’es fou toi, tu crois que les choses se règlent comment ? qu’est ce que tu peux être méprisant Roland ! je vais me battre et je serai là, recalculée de mon droit au logement.
 
 # Roland
 D'abord, c'est pas les locataires qui sont recalculés, c'est les chômeurs.
 
 # Rachel
-Ouais ouais, ben ça commence par les chômeurs. Et puis faut continuer le combat.
+Non mais t’a très bien compris ce que je voulais dire fais pas mine de t’intéresser aux chomeurs ; je parie que t'es même pas au courant que France Travail arrive bientôt et que les droits au chomage, c'est un truc qui est voué à disparaître...
 
 # Roland
-maintenant tout le monde s'y met pour te trouver une solution. Malik est même allé à la mairie voir notre maire qui n'était même pas là !].
+maintenant tout le monde s'y met pour te trouver une solution. Malik est même allé à la mairie voir notre maire qui n'était même pas là !.
 
 # Rachel
 Tu me fais beaucoup de peine tu sais, vraiment. Ahhh, tu n'es pas comme ton père, lui au moins il m'a cachée pendant la guerre.
@@ -331,7 +338,7 @@ Je connais. Fait maison. Très bon, très gras. (elle ferme la fenêtre)
 ### Ninon disparaît
 #### Séquence 8
 ##### Atelier de Charlotte
-###### Vincent Chaumette et Charlotte
+###### Vincent Chaumette et Charlotte Le Bihac
 
 # Vincent
 Bonjour, excusez moi, je vous dérange, j'ai fait tous les commerces de la rue et je cherche ma fille.
@@ -340,7 +347,7 @@ Bonjour, excusez moi, je vous dérange, j'ai fait tous les commerces de la rue e
 Mais oui oui, on s'est croisées hier. Vous êtes les nouveaux voisins ? Attendez j'arrive. Dites moi, elle a disparu depuis longtemps ?
 
 # Vincent
-Depuis hier. En fait, je ne lui ai pas dit que je venais m'installer à Marseille et qu'elle ne retournerai pas à Paris.
+Depuis hier. En fait, je ne lui ai pas dit que je venais m'installer à Saint Etienne et qu'elle ne retournerai pas à Lyon.
 
 # Charlotte
 A sa place, je l'aurais peut être mal pris, moi aussi. oui, à son âge, elle a le droit de savoir ce qui l'attend dans la vie.
@@ -349,7 +356,7 @@ A sa place, je l'aurais peut être mal pris, moi aussi. oui, à son âge, elle a
 Oui, oui, je reconnais, c'était très maladroit, mais c'est pas une raison pour me laisser dans une telle angoisse
 
 # Charlotte
-écoutez elle est peut être tout bêtement sur une plage en train de regretter votre dispute. Demain, elle aura tout oublié. Les ados y sont pas vraiment rancuniers.
+écoutez elle est peut être tout bêtement dans un parc en train de regretter votre dispute. Demain, elle aura tout oublié. Les ados y sont pas vraiment rancuniers.
 > musique grands violons
 
 Moi aussi je me tirais tout le temps de chez mes parents. Je faisais ça en espérant qu'ils s'inquiètent pour moi. Mais non, ils s'en foutaient complètement.
@@ -370,33 +377,8 @@ Charlotte lui dit au revoir et ferme la porte l'air amoureuse.
 #### Séquence 9
 ##### Gare
 ###### Ninon, un jeune, des vieux
-
-# Un jeune (dans PBLV c'est un mec en mode wesh putain les batards)
-Alors alors on a l'air perdue ? moi c'est Antonio et toi ?
-
-# Ninon
-Moi c'est Ninon.
-
-# Le jeune
->  son collègue s'amène derrière elle
-
-C'est mignon, c'est joli comme prénom. Aussi joli que toi.
-
-# Ninon
-Bon, je vais y aller.
-
-# Le jeune
-Attend attend tu vas pas nous quitter comme ça. J'ai même pas eu le temps de faire connaissance
-
-# Ninon
-Ca va j'vais me debrouiller merci.
-
-# Le jeune
-Tu veux vraiment pas venir chez moi, on a de quoi passer un bon moment...
-> Ninon se casse, court et bouscule deux vieux Vieille France qui lisent le journal
-
-# Les vieux :
-Encore une qui descend du TGV, j'en ai connu deux jours après ils retrouvaient pas leur vitesse normale, LOL !
+> Impro totale, Ninon est confronté a l'alterité dans la gare
+pokemon go ? Benevoles Action contre la faim ou petition ? Wahil, eau contaminé a sainté ?
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -426,21 +408,22 @@ Tu vas pas le rester longtemps...
 Remarque rien qu'à voir ta figure, je m'en doutais un peu. Alors, c'est quoi ?
 
 # François
-On en a déjà parlé hier. Je vais devoir t'augmenter le loyer du Mistral. Je suis sur la paille, les impôts me poursuivent.
+Ecoute Papa, On en a déjà parlé hier. Depuis que tu m'as céder le bar, je ne t'ai jamais augmenter le loyer. Mais là, je n'ai plus le choix. Je suis sur la paille, les impôts me poursuivent.
 
 # Roland
-Voilà, voilà. On part au Canada, on se paye une belle tranche de vacances et après ça, on s'en prend aux impôts.
+Voilà, voilà. On part en Haute Loire, on se paye une belle tranche de vacances et après ça, on s'en prend aux impôts.
 >  il se prend une bière
 
-Mais si tu voulais aller voir des ours, t'avais qu'à aller dans les Pyrénées... c'est direct maintenant par l'autoroute.
+Mais si tu voulais aller voir des ours, t'avais qu'à aller dans le zoo de st martin la plaine... c'est direct maintenant par l'autoroute.
 
 # François
-Arrête ton cinéma, Tu sais très bien que c'était pour le concours de patinage de Johanna. Et en plus Lucas en a profité pour améliorer son anglais.
-Roland
+Arrête ton cinéma, Tu sais très bien que c'était pour le concours de patinage de Johanna. Et en plus Lucas en a profité pour améliorer son français.
+
+# Roland
 Mais toi t'en a pas profité pour améliorer nos relations. Moi aussi, j'aimerais bien perfectionner mon bolivien en allant gambader dans la pampa. J'ai pas d'argent, je pars pas.
 
 # François
-Tu dis ça, mais en dehors du Mistral, il n'y a rien qui t'intéresse. Mets toi un peu à ma place et ça fait des années que je te fais payer un loyer dérisoire.
+Tu dis ça, mais en dehors de Sainté, il n'y a rien qui t'intéresse. Mets toi un peu à ma place et ça fait des années que je te fais payer un loyer dérisoire.
 
 # Roland
 Mais alors c'est normal, je suis ton père.
@@ -456,8 +439,6 @@ Attendez attendez j'vais vous aider.
 
 # Blanche
 Non, c'est pas la peine, j'ai l'habitude. ... Merci.
-
-# Vincent
 Au fait, et votre fille, vous avez des nouvelles ?
 
 # Vincent
@@ -476,7 +457,7 @@ Ah les enfants. Vous êtes allé voir la police ?
 Je pensais jamais que ce serait aussi sérieux. Je crois que y'a plus que ça a faire.
 
 # Blanche
-Moi à votre place je serait devenue folle. J'aurais déjà placardé la photo de ma fille dans tout Marseille. Mais bon, je suis du genre mère poule. Mes élèves et mes enfants n'arrêtent pas de me le reprocher.
+Moi à votre place je serait devenue folle. J'aurais déjà placardé la photo de ma fille dans tout Saint-Etienne Mais bon, je suis du genre mère poule. Mes élèves et mes enfants n'arrêtent pas de me le reprocher.
 
 # Vincent
 Moi, je serais plutôt du genre père en apprentissage. Mais Ninon aussi me le reproche. En l'occurrence, elle a pas tort.
@@ -485,7 +466,7 @@ Moi, je serais plutôt du genre père en apprentissage. Mais Ninon aussi me le r
 avec nos enfants, on est toujours tous en apprentissage. C'est comme ça la vie. Voyez moi, c'est mon mari qui râle parce que je m'occupe trop de mes élèves. Et oui, je suis instit, du genre de celles qui ont encore la vocation. Merci.
 
 # Vincent
-Au revoir encore. Donc tu veux ou pas ou quoi toi ? Cette fois c'est sérieux. Je veux que tu me donnes. Attire de plus, quand t'as ma chemise comme ça, tu pourras leur dire aux impôts que tu mets ton père à poil. Décidément, cette année, la spéculation, ça leur monte à la tête aux petits propriétaires du quartier.
+Au revoir merci encore.
 
 ## Épisode n°=2
 ### Ninon disparaît
@@ -500,7 +481,7 @@ Bon tu en veux un ou pas (une bière) ?
 Bon écoute moi cette fois c'est serieux je veux que tu me donnes un tiers de plus.
 
 # Roland
-Oh et ben tiens ta qu'a prendre ma chemise ! Comme ça tu pourras leur dire aux impots que tu m'es tombé à poil ! Décidemment cette année la speculation ça leur monte à la tête aux petits propriétaires du quartier.
+Oh et ben tiens ta qu'a prendre ma chemise ! Comme ça tu pourras leur dire aux impots que tu met ton père à poil ! Décidemment cette année la speculation ça leur monte à la tête aux petits propriétaires du quartier.
 
 # François
 Tu peux dire ce que tu voudras je changerai pas d'avis.
@@ -523,8 +504,16 @@ Ben quoi ? Lui aussi il m'a fait de la peine. Et oui, il m'a fait de la peine.
 ##### Centre-ville, dans la rue
 ###### Vincent Chaumette et une passante
 
+#Vincent
+
+Vous avez vu ma fille ???
+
 # Vincent, son téléphone sonne
-Ninon ?? Ah Laurence, c'est toi ? Ah oui, ça pour le savoir, je sais que t'es toujours sa mère, hein ? Non, non, on va rester à Marseille pour la dernière semaine de vacances, elle se plaît bien ici. Oui, on profite de la mer. D'ailleurs, elle est encore à la plage. Ah bah non, je sais pas écoute, son portable doit être déchargée ou... écoute dès qu'elle rentre elle te rappelle. D'accord, ok, c'est ça ? Oui ok. >  il arrête une fille pensant que c'est Ninon]
+Ninon ?? Ah Laurence, c'est toi ? Ah oui, ça pour le savoir, je sais que t'es toujours sa mère, hein ? Non, non, on va rester à Saint Etienne pour la dernière semaine de vacances, elle se plaît bien ici. Oui, on profite des parcs. D'ailleurs, elle est encore à Montaud. Ah bah non, je sais pas écoute, son portable doit être déchargée ou... écoute dès qu'elle rentre elle te rappelle. D'accord, ok, c'est ça ? Oui ok.
+
+>  il arrête une fille pensant que c'est Ninon
+
+
 Excusez moi messieurs, le commissariat.
 
 ## Épisode n°=2
@@ -534,7 +523,7 @@ Excusez moi messieurs, le commissariat.
 ###### Malik, Rachel
 
 # Malik
-Pourquoi vous n'êtes jamais allé chercher les recommandés à la Poste ? Vous savez très bien que votre proprio veut vous relogé dans un studio
+Pourquoi vous n'êtes jamais allé chercher les recommandés à la Poste ? Vous savez très bien que votre proprio veut vous reloger dans un studio
 
 # Rachel
 studio ? un trou à rat oui ! Je croyais qu'il existait une loi aujourd'hui contre les loueurs de taudis ?
@@ -557,7 +546,7 @@ Rachel ! Rachel !
 ###### Ninon et Rudy
 
 # Rudy
-Ah bah voilà celle que je cherchais et en retard comme d'habitude. Un concert electro funk ça n'attend pas. La prochaine fois, tu pourrais arriver à l'heure... je rigole. C'est pas de la drague. Regarde, t'as vu, il nous invite ! 'tin mais elle me croit pas. Mais regarde, je te dis regarde, attends, ça va chauffer. Tu ne peux pas manquer quand même
+Ah bah voilà celle que je cherchais et en retard comme d'habitude. Un concert electro funk ça n'attend pas. La prochaine fois, tu pourrais arriver à l'heure... je rigole. C'est pas de la drague.
 
 # Ninon
 écoute là j'ai pas trop le temps. J'ai des emmerdes.
@@ -567,10 +556,12 @@ Ah bah voilà celle que je cherchais et en retard comme d'habitude. Un concert e
 Qu'est ce qu'il y a ?
 
 # Ninon
-C'est pas trop chicos ton concert, parce que j'ai rien d'autre à mettre là.
+j'espère que c'est pas trop chicos ton concert, parce que j'ai rien d'autre à mettre là.
 
 # Rudy
-Non, non, non, non, non, non, t'es très bien comme ça. Très très bien même, change rien. Allo ? Oui Lucas, oui, c'est moi. Oui, oui, oui, oui, tu sais, le concert de soir, c'est vraiment pas de bol, c'est annulé. Ah bah ouais je sais. Ouais, mais je crois qu'il y a comme un petit contretemps , comme un cas de force majeure
+Non, non, non, non, non, non, t'es très bien comme ça. Très très bien même, change rien.
+Allo ? Oui Lucas, oui, c'est moi. Oui, oui, oui, oui, tu sais, le concert de soir, c'est vraiment pas de bol, c'est annulé.
+Ah bah ouais je sais. Ouais, mais je crois qu'il y a comme un petit contretemps , comme un cas de force majeure
 >  Ninon l'attrape pour bouger.
 
 Ah ouais ouais, je te rappelle la je suis super pressé.
@@ -592,4 +583,6 @@ mais non ta qu'à le faire si tu sais mieux que moi
 
 # Blanche
 Allez encore un effort
->  ils regardent en direction du sol...]
+>  ils regardent en direction du sol...
+
+
