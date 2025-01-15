@@ -38,7 +38,7 @@ WINDOWS
 ~~~~~~~~~~~~
 LINUX
 
-1- Installer xampp serveur pour php
+1- Installer xampp serveur pour php - https://fr.linux-console.net/?p=15272
 2- changer l'emplacement du dossier de test serveur ou utiliser celui de base
 /opt/lampp/htdocs/
 et faire un lien symbolique :
